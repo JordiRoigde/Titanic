@@ -1,0 +1,892 @@
+,PasajeroId,Sobrevivio,Clase,Nombre,Sexo,Edad,Hermanos,Parentesco,Billete,Precio,Cabina,Embarcacion,Titulo
+0,1,No,Tercera,"Braund,  Owen Harris",Hombre,22.0,1,0,A/5 21171,7.25,Desconocido,Southampton,Senor
+1,2,Si,Primera,"Cumings,  John Bradley (Florence Briggs Thayer)",Mujer,38.0,1,0,PC 17599,71.28,C85,Cherbourg,Señora
+2,3,Si,Tercera,"Heikkinen,  Laina",Mujer,26.0,0,0,STON/O2. 3101282,7.92,Desconocido,Southampton,Señorita
+3,4,Si,Primera,"Futrelle,  Jacques Heath (Lily May Peel)",Mujer,35.0,1,0,113803,53.1,C123,Southampton,Señora
+4,5,No,Tercera,"Allen,  William Henry",Hombre,35.0,0,0,373450,8.05,Desconocido,Southampton,Senor
+5,6,No,Tercera,"Moran,  James",Hombre,29.7,0,0,330877,8.46,Desconocido,Queenstown,Senor
+6,7,No,Primera,"McCarthy,  Timothy J",Hombre,54.0,0,0,17463,51.86,E46,Southampton,Senor
+7,8,No,Tercera,"Palsson,  Gosta Leonard",Hombre,2.0,3,1,349909,21.08,Desconocido,Southampton,Joven
+8,9,Si,Tercera,"Johnson,  Oscar W (Elisabeth Vilhelmina Berg)",Mujer,27.0,0,2,347742,11.13,Desconocido,Southampton,Señora
+9,10,Si,Segunda,"Nasser,  Nicholas (Adele Achem)",Mujer,14.0,1,0,237736,30.07,Desconocido,Cherbourg,Señora
+10,11,Si,Tercera,"Sandstrom,  Marguerite Rut",Mujer,4.0,1,1,PP 9549,16.7,G6,Southampton,Joven
+11,12,Si,Primera,"Bonnell,  Elizabeth",Mujer,58.0,0,0,113783,26.55,C103,Southampton,Señorita
+12,13,No,Tercera,"Saundercock,  William Henry",Hombre,20.0,0,0,A/5. 2151,8.05,Desconocido,Southampton,Senor
+13,14,No,Tercera,"Andersson,  Anders Johan",Hombre,39.0,1,5,347082,31.28,Desconocido,Southampton,Senor
+14,15,No,Tercera,"Vestrom,  Hulda Amanda Adolfina",Mujer,14.0,0,0,350406,7.85,Desconocido,Southampton,Joven
+15,16,Si,Segunda,"Hewlett,  (Mary D Kingcome) ",Mujer,55.0,0,0,248706,16.0,Desconocido,Southampton,Señora
+16,17,No,Tercera,"Rice,  Eugene",Hombre,2.0,4,1,382652,29.12,Desconocido,Queenstown,Joven
+17,18,Si,Segunda,"Williams,  Charles Eugene",Hombre,29.7,0,0,244373,13.0,Desconocido,Southampton,Senor
+18,19,No,Tercera,"Vander Planke,  Julius (Emelia Maria Vandemoortele)",Mujer,31.0,1,0,345763,18.0,Desconocido,Southampton,Señora
+19,20,Si,Tercera,"Masselmani,  Fatima",Mujer,29.7,0,0,2649,7.22,Desconocido,Cherbourg,Señora
+20,21,No,Segunda,"Fynney,  Joseph J",Hombre,35.0,0,0,239865,26.0,Desconocido,Southampton,Senor
+21,22,Si,Segunda,"Beesley,  Lawrence",Hombre,34.0,0,0,248698,13.0,D56,Southampton,Senor
+22,23,Si,Tercera,"McGowan,  Anna ""Annie""",Mujer,15.0,0,0,330923,8.03,Desconocido,Queenstown,Joven
+23,24,Si,Primera,"Sloper,  William Thompson",Hombre,28.0,0,0,113788,35.5,A6,Southampton,Senor
+24,25,No,Tercera,"Palsson,  Torborg Danira",Mujer,8.0,3,1,349909,21.08,Desconocido,Southampton,Joven
+25,26,Si,Tercera,"Asplund,  Carl Oscar (Selma Augusta Emilia Johansson)",Mujer,38.0,1,5,347077,31.39,Desconocido,Southampton,Señora
+26,27,No,Tercera,"Emir,  Farred Chehab",Hombre,29.7,0,0,2631,7.22,Desconocido,Cherbourg,Senor
+27,28,No,Primera,"Fortune,  Charles Alexander",Hombre,19.0,3,2,19950,263.0,C23 C25 C27,Southampton,Senor
+28,29,Si,Tercera,"O'Dwyer,  Ellen ""Nellie""",Mujer,29.7,0,0,330959,7.88,Desconocido,Queenstown,Señorita
+29,30,No,Tercera,"Todoroff,  Lalio",Hombre,29.7,0,0,349216,7.9,Desconocido,Southampton,Senor
+30,31,No,Primera,"Uruchurtu,  Manuel E",Hombre,40.0,0,0,PC 17601,27.72,Desconocido,Cherbourg,Realeza
+31,32,Si,Primera,"Spencer,  William Augustus (Marie Eugenie)",Mujer,29.7,1,0,PC 17569,146.52,B78,Cherbourg,Señora
+32,33,Si,Tercera,"Glynn,  Mary Agatha",Mujer,29.7,0,0,335677,7.75,Desconocido,Queenstown,Señorita
+33,34,No,Segunda,"Wheadon,  Edward H",Hombre,66.0,0,0,C.A. 24579,10.5,Desconocido,Southampton,Senor
+34,35,No,Primera,"Meyer,  Edgar Joseph",Hombre,28.0,1,0,PC 17604,82.17,Desconocido,Cherbourg,Senor
+35,36,No,Primera,"Holverson,  Alexander Oskar",Hombre,42.0,1,0,113789,52.0,Desconocido,Southampton,Senor
+36,37,Si,Tercera,"Mamee,  Hanna",Hombre,29.7,0,0,2677,7.23,Desconocido,Cherbourg,Senor
+37,38,No,Tercera,"Cann,  Ernest Charles",Hombre,21.0,0,0,A./5. 2152,8.05,Desconocido,Southampton,Senor
+38,39,No,Tercera,"Vander Planke,  Augusta Maria",Mujer,18.0,2,0,345764,18.0,Desconocido,Southampton,Señorita
+39,40,Si,Tercera,"Nicola-Yarred,  Jamila",Mujer,14.0,1,0,2651,11.24,Desconocido,Cherbourg,Joven
+40,41,No,Tercera,"Ahlin,  Johan (Johanna Persdotter Larsson)",Mujer,40.0,1,0,7546,9.48,Desconocido,Southampton,Señora
+41,42,No,Segunda,"Turpin,  William John Robert (Dorothy Ann Wonnacott)",Mujer,27.0,1,0,11668,21.0,Desconocido,Southampton,Señora
+42,43,No,Tercera,"Kraeff,  Theodor",Hombre,29.7,0,0,349253,7.9,Desconocido,Cherbourg,Senor
+43,44,Si,Segunda,"Laroche,  Simonne Marie Anne Andree",Mujer,3.0,1,2,SC/Paris 2123,41.58,Desconocido,Cherbourg,Joven
+44,45,Si,Tercera,"Devaney,  Margaret Delia",Mujer,19.0,0,0,330958,7.88,Desconocido,Queenstown,Señorita
+45,46,No,Tercera,"Rogers,  William John",Hombre,29.7,0,0,S.C./A.4. 23567,8.05,Desconocido,Southampton,Senor
+46,47,No,Tercera,"Lennon,  Denis",Hombre,29.7,1,0,370371,15.5,Desconocido,Queenstown,Senor
+47,48,Si,Tercera,"O'Driscoll,  Bridget",Mujer,29.7,0,0,14311,7.75,Desconocido,Queenstown,Señorita
+48,49,No,Tercera,"Samaan,  Youssef",Hombre,29.7,2,0,2662,21.68,Desconocido,Cherbourg,Senor
+49,50,No,Tercera,"Arnold-Franchi,  Josef (Josefine Franchi)",Mujer,18.0,1,0,349237,17.8,Desconocido,Southampton,Señora
+50,51,No,Tercera,"Panula,  Juha Niilo",Hombre,7.0,4,1,3101295,39.69,Desconocido,Southampton,Joven
+51,52,No,Tercera,"Nosworthy,  Richard Cater",Hombre,21.0,0,0,A/4. 39886,7.8,Desconocido,Southampton,Senor
+52,53,Si,Primera,"Harper,  Henry Sleeper (Myna Haxtun)",Mujer,49.0,1,0,PC 17572,76.73,D33,Cherbourg,Señora
+53,54,Si,Segunda,"Faunthorpe,  Lizzie (Elizabeth Anne Wilkinson)",Mujer,29.0,1,0,2926,26.0,Desconocido,Southampton,Señora
+54,55,No,Primera,"Ostby,  Engelhart Cornelius",Hombre,65.0,0,1,113509,61.98,B30,Cherbourg,Senor
+55,56,Si,Primera,"Woolner,  Hugh",Hombre,29.7,0,0,19947,35.5,C52,Southampton,Senor
+56,57,Si,Segunda,"Rugg,  Emily",Mujer,21.0,0,0,C.A. 31026,10.5,Desconocido,Southampton,Señorita
+57,58,No,Tercera,"Novel,  Mansouer",Hombre,28.5,0,0,2697,7.23,Desconocido,Cherbourg,Senor
+58,59,Si,Segunda,"West,  Constance Mirium",Mujer,5.0,1,2,C.A. 34651,27.75,Desconocido,Southampton,Joven
+59,60,No,Tercera,"Goodwin,  William Frederick",Hombre,11.0,5,2,CA 2144,46.9,Desconocido,Southampton,Joven
+60,61,No,Tercera,"Sirayanian,  Orsen",Hombre,22.0,0,0,2669,7.23,Desconocido,Cherbourg,Senor
+61,62,Si,Primera,"Icard,  Amelie",Mujer,38.0,0,0,113572,80.0,B28,Southampton,Señorita
+62,63,No,Primera,"Harris,  Henry Birkhardt",Hombre,45.0,1,0,36973,83.48,C83,Southampton,Senor
+63,64,No,Tercera,"Skoog,  Harald",Hombre,4.0,3,2,347088,27.9,Desconocido,Southampton,Joven
+64,65,No,Primera,"Stewart,  Albert A",Hombre,29.7,0,0,PC 17605,27.72,Desconocido,Cherbourg,Senor
+65,66,Si,Tercera,"Moubarek,  Gerios",Hombre,29.7,1,1,2661,15.25,Desconocido,Cherbourg,Senor
+66,67,Si,Segunda,"Nye,  (Elizabeth Ramell)",Mujer,29.0,0,0,C.A. 29395,10.5,F33,Southampton,Señora
+67,68,No,Tercera,"Crease,  Ernest James",Hombre,19.0,0,0,S.P. 3464,8.16,Desconocido,Southampton,Senor
+68,69,Si,Tercera,"Andersson,  Erna Alexandra",Mujer,17.0,4,2,3101281,7.92,Desconocido,Southampton,Señorita
+69,70,No,Tercera,"Kink,  Vincenz",Hombre,26.0,2,0,315151,8.66,Desconocido,Southampton,Senor
+70,71,No,Segunda,"Jenkin,  Stephen Curnow",Hombre,32.0,0,0,C.A. 33111,10.5,Desconocido,Southampton,Senor
+71,72,No,Tercera,"Goodwin,  Lillian Amy",Mujer,16.0,5,2,CA 2144,46.9,Desconocido,Southampton,Señorita
+72,73,No,Segunda,"Hood,  Ambrose Jr",Hombre,21.0,0,0,S.O.C. 14879,73.5,Desconocido,Southampton,Senor
+73,74,No,Tercera,"Chronopoulos,  Apostolos",Hombre,26.0,1,0,2680,14.45,Desconocido,Cherbourg,Senor
+74,75,Si,Tercera,"Bing,  Lee",Hombre,32.0,0,0,1601,56.5,Desconocido,Southampton,Senor
+75,76,No,Tercera,"Moen,  Sigurd Hansen",Hombre,25.0,0,0,348123,7.65,F G73,Southampton,Senor
+76,77,No,Tercera,"Staneff,  Ivan",Hombre,29.7,0,0,349208,7.9,Desconocido,Southampton,Senor
+77,78,No,Tercera,"Moutal,  Rahamin Haim",Hombre,29.7,0,0,374746,8.05,Desconocido,Southampton,Senor
+78,79,Si,Segunda,"Caldwell,  Alden Gates",Hombre,0.83,0,2,248738,29.0,Desconocido,Southampton,Joven
+79,80,Si,Tercera,"Dowdell,  Elizabeth",Mujer,30.0,0,0,364516,12.48,Desconocido,Southampton,Señorita
+80,81,No,Tercera,"Waelens,  Achille",Hombre,22.0,0,0,345767,9.0,Desconocido,Southampton,Senor
+81,82,Si,Tercera,"Sheerlinck,  Jan Baptist",Hombre,29.0,0,0,345779,9.5,Desconocido,Southampton,Senor
+82,83,Si,Tercera,"McDermott,  Brigdet Delia",Mujer,29.7,0,0,330932,7.79,Desconocido,Queenstown,Señorita
+83,84,No,Primera,"Carrau,  Francisco M",Hombre,28.0,0,0,113059,47.1,Desconocido,Southampton,Senor
+84,85,Si,Segunda,"Ilett,  Bertha",Mujer,17.0,0,0,SO/C 14885,10.5,Desconocido,Southampton,Señorita
+85,86,Si,Tercera,"Backstrom,  Karl Alfred (Maria Mathilda Gustafsson)",Mujer,33.0,3,0,3101278,15.85,Desconocido,Southampton,Señora
+86,87,No,Tercera,"Ford,  William Neal",Hombre,16.0,1,3,W./C. 6608,34.38,Desconocido,Southampton,Senor
+87,88,No,Tercera,"Slocovski,  Selman Francis",Hombre,29.7,0,0,SOTON/OQ 392086,8.05,Desconocido,Southampton,Senor
+88,89,Si,Primera,"Fortune,  Mabel Helen",Mujer,23.0,3,2,19950,263.0,C23 C25 C27,Southampton,Señorita
+89,90,No,Tercera,"Celotti,  Francesco",Hombre,24.0,0,0,343275,8.05,Desconocido,Southampton,Senor
+90,91,No,Tercera,"Christmann,  Emil",Hombre,29.0,0,0,343276,8.05,Desconocido,Southampton,Senor
+91,92,No,Tercera,"Andreasson,  Paul Edvin",Hombre,20.0,0,0,347466,7.85,Desconocido,Southampton,Senor
+92,93,No,Primera,"Chaffee,  Herbert Fuller",Hombre,46.0,1,0,W.E.P. 5734,61.18,E31,Southampton,Senor
+93,94,No,Tercera,"Dean,  Bertram Frank",Hombre,26.0,1,2,C.A. 2315,20.58,Desconocido,Southampton,Senor
+94,95,No,Tercera,"Coxon,  Daniel",Hombre,59.0,0,0,364500,7.25,Desconocido,Southampton,Senor
+95,96,No,Tercera,"Shorney,  Charles Joseph",Hombre,29.7,0,0,374910,8.05,Desconocido,Southampton,Senor
+96,97,No,Primera,"Goldschmidt,  George B",Hombre,71.0,0,0,PC 17754,34.65,A5,Cherbourg,Senor
+97,98,Si,Primera,"Greenfield,  William Bertram",Hombre,23.0,0,1,PC 17759,63.36,D10 D12,Cherbourg,Senor
+98,99,Si,Segunda,"Doling,  John T (Ada Julia Bone)",Mujer,34.0,0,1,231919,23.0,Desconocido,Southampton,Señora
+99,100,No,Segunda,"Kantor,  Sinai",Hombre,34.0,1,0,244367,26.0,Desconocido,Southampton,Senor
+100,101,No,Tercera,"Petranec,  Matilda",Mujer,28.0,0,0,349245,7.9,Desconocido,Southampton,Señorita
+101,102,No,Tercera,"Petroff,  Pastcho (""Pentcho"")",Hombre,29.7,0,0,349215,7.9,Desconocido,Southampton,Senor
+102,103,No,Primera,"White,  Richard Frasar",Hombre,21.0,0,1,35281,77.29,D26,Southampton,Senor
+103,104,No,Tercera,"Johansson,  Gustaf Joel",Hombre,33.0,0,0,7540,8.65,Desconocido,Southampton,Senor
+104,105,No,Tercera,"Gustafsson,  Anders Vilhelm",Hombre,37.0,2,0,3101276,7.92,Desconocido,Southampton,Senor
+105,106,No,Tercera,"Mionoff,  Stoytcho",Hombre,28.0,0,0,349207,7.9,Desconocido,Southampton,Senor
+106,107,Si,Tercera,"Salkjelsvik,  Anna Kristine",Mujer,21.0,0,0,343120,7.65,Desconocido,Southampton,Señorita
+107,108,Si,Tercera,"Moss,  Albert Johan",Hombre,29.7,0,0,312991,7.78,Desconocido,Southampton,Senor
+108,109,No,Tercera,"Rekic,  Tido",Hombre,38.0,0,0,349249,7.9,Desconocido,Southampton,Senor
+109,110,Si,Tercera,"Moran,  Bertha",Mujer,29.7,1,0,371110,24.15,Desconocido,Queenstown,Señorita
+110,111,No,Primera,"Porter,  Walter Chamberlain",Hombre,47.0,0,0,110465,52.0,C110,Southampton,Senor
+111,112,No,Tercera,"Zabour,  Hileni",Mujer,14.5,1,0,2665,14.45,Desconocido,Cherbourg,Joven
+112,113,No,Tercera,"Barton,  David John",Hombre,22.0,0,0,324669,8.05,Desconocido,Southampton,Senor
+113,114,No,Tercera,"Jussila,  Katriina",Mujer,20.0,1,0,4136,9.82,Desconocido,Southampton,Señorita
+114,115,No,Tercera,"Attalah,  Malake",Mujer,17.0,0,0,2627,14.46,Desconocido,Cherbourg,Señorita
+115,116,No,Tercera,"Pekoniemi,  Edvard",Hombre,21.0,0,0,STON/O 2. 3101294,7.92,Desconocido,Southampton,Senor
+116,117,No,Tercera,"Connors,  Patrick",Hombre,70.5,0,0,370369,7.75,Desconocido,Queenstown,Senor
+117,118,No,Segunda,"Turpin,  William John Robert",Hombre,29.0,1,0,11668,21.0,Desconocido,Southampton,Senor
+118,119,No,Primera,"Baxter,  Quigg Edmond",Hombre,24.0,0,1,PC 17558,247.52,B58 B60,Cherbourg,Senor
+119,120,No,Tercera,"Andersson,  Ellis Anna Maria",Mujer,2.0,4,2,347082,31.28,Desconocido,Southampton,Joven
+120,121,No,Segunda,"Hickman,  Stanley George",Hombre,21.0,2,0,S.O.C. 14879,73.5,Desconocido,Southampton,Senor
+121,122,No,Tercera,"Moore,  Leonard Charles",Hombre,29.7,0,0,A4. 54510,8.05,Desconocido,Southampton,Senor
+122,123,No,Segunda,"Nasser,  Nicholas",Hombre,32.5,1,0,237736,30.07,Desconocido,Cherbourg,Senor
+123,124,Si,Segunda,"Webber,  Susan",Mujer,32.5,0,0,27267,13.0,E101,Southampton,Señorita
+124,125,No,Primera,"White,  Percival Wayland",Hombre,54.0,0,1,35281,77.29,D26,Southampton,Senor
+125,126,Si,Tercera,"Nicola-Yarred,  Elias",Hombre,12.0,1,0,2651,11.24,Desconocido,Cherbourg,Joven
+126,127,No,Tercera,"McMahon,  Martin",Hombre,29.7,0,0,370372,7.75,Desconocido,Queenstown,Senor
+127,128,Si,Tercera,"Madsen,  Fridtjof Arne",Hombre,24.0,0,0,C 17369,7.14,Desconocido,Southampton,Senor
+128,129,Si,Tercera,"Peter,  Anna",Mujer,29.7,1,1,2668,22.36,F E69,Cherbourg,Señorita
+129,130,No,Tercera,"Ekstrom,  Johan",Hombre,45.0,0,0,347061,6.98,Desconocido,Southampton,Senor
+130,131,No,Tercera,"Drazenoic,  Jozef",Hombre,33.0,0,0,349241,7.9,Desconocido,Cherbourg,Senor
+131,132,No,Tercera,"Coelho,  Domingos Fernandeo",Hombre,20.0,0,0,SOTON/O.Q. 3101307,7.05,Desconocido,Southampton,Senor
+132,133,No,Tercera,"Robins,  Alexander A (Grace Charity Laury)",Mujer,47.0,1,0,A/5. 3337,14.5,Desconocido,Southampton,Señora
+133,134,Si,Segunda,"Weisz,  Leopold (Mathilde Francoise Pede)",Mujer,29.0,1,0,228414,26.0,Desconocido,Southampton,Señora
+134,135,No,Segunda,"Sobey,  Samuel James Hayden",Hombre,25.0,0,0,C.A. 29178,13.0,Desconocido,Southampton,Senor
+135,136,No,Segunda,"Richard,  Emile",Hombre,23.0,0,0,SC/PARIS 2133,15.05,Desconocido,Cherbourg,Senor
+136,137,Si,Primera,"Newsom,  Helen Monypeny",Mujer,19.0,0,2,11752,26.28,D47,Southampton,Señorita
+137,138,No,Primera,"Futrelle,  Jacques Heath",Hombre,37.0,1,0,113803,53.1,C123,Southampton,Senor
+138,139,No,Tercera,"Osen,  Olaf Elon",Hombre,16.0,0,0,7534,9.22,Desconocido,Southampton,Senor
+139,140,No,Primera,"Giglio,  Victor",Hombre,24.0,0,0,PC 17593,79.2,B86,Cherbourg,Senor
+140,141,No,Tercera,"Boulos,  Joseph (Sultana)",Mujer,29.7,0,2,2678,15.25,Desconocido,Cherbourg,Señora
+141,142,Si,Tercera,"Nysten,  Anna Sofia",Mujer,22.0,0,0,347081,7.75,Desconocido,Southampton,Señorita
+142,143,Si,Tercera,"Hakkarainen,  Pekka Pietari (Elin Matilda Dolck)",Mujer,24.0,1,0,STON/O2. 3101279,15.85,Desconocido,Southampton,Señora
+143,144,No,Tercera,"Burke,  Jeremiah",Hombre,19.0,0,0,365222,6.75,Desconocido,Queenstown,Senor
+144,145,No,Segunda,"Andrew,  Edgardo Samuel",Hombre,18.0,0,0,231945,11.5,Desconocido,Southampton,Senor
+145,146,No,Segunda,"Nicholls,  Joseph Charles",Hombre,19.0,1,1,C.A. 33112,36.75,Desconocido,Southampton,Senor
+146,147,Si,Tercera,"Andersson,  August Edvard (""Wennerstrom"")",Hombre,27.0,0,0,350043,7.8,Desconocido,Southampton,Senor
+147,148,No,Tercera,"Ford,  Robina Maggie ""Ruby""",Mujer,9.0,2,2,W./C. 6608,34.38,Desconocido,Southampton,Joven
+148,149,No,Segunda,"Navratil,  Michel (""Louis M Hoffman"")",Hombre,36.5,0,2,230080,26.0,F2,Southampton,Senor
+149,150,No,Segunda,"Byles,  Thomas Roussel Davids",Hombre,42.0,0,0,244310,13.0,Desconocido,Southampton,Sacerdote
+150,151,No,Segunda,"Bateman,  Robert James",Hombre,51.0,0,0,S.O.P. 1166,12.52,Desconocido,Southampton,Sacerdote
+151,152,Si,Primera,"Pears,  Thomas (Edith Wearne)",Mujer,22.0,1,0,113776,66.6,C2,Southampton,Señora
+152,153,No,Tercera,"Meo,  Alfonzo",Hombre,55.5,0,0,A.5. 11206,8.05,Desconocido,Southampton,Senor
+153,154,No,Tercera,"van Billiard,  Austin Blyler",Hombre,40.5,0,2,A/5. 851,14.5,Desconocido,Southampton,Senor
+154,155,No,Tercera,"Olsen,  Ole Martin",Hombre,29.7,0,0,Fa 265302,7.31,Desconocido,Southampton,Senor
+155,156,No,Primera,"Williams,  Charles Duane",Hombre,51.0,0,1,PC 17597,61.38,Desconocido,Cherbourg,Senor
+156,157,Si,Tercera,"Gilnagh,  Katherine ""Katie""",Mujer,16.0,0,0,35851,7.73,Desconocido,Queenstown,Señorita
+157,158,No,Tercera,"Corn,  Harry",Hombre,30.0,0,0,SOTON/OQ 392090,8.05,Desconocido,Southampton,Senor
+158,159,No,Tercera,"Smiljanic,  Mile",Hombre,29.7,0,0,315037,8.66,Desconocido,Southampton,Senor
+159,160,No,Tercera,"Sage,  Thomas Henry",Hombre,29.7,8,2,CA. 2343,69.55,Desconocido,Southampton,Senor
+160,161,No,Tercera,"Cribb,  John Hatfield",Hombre,44.0,0,1,371362,16.1,Desconocido,Southampton,Senor
+161,162,Si,Segunda,"Watt,  James (Elizabeth ""Bessie"" Inglis Milne)",Mujer,40.0,0,0,C.A. 33595,15.75,Desconocido,Southampton,Señora
+162,163,No,Tercera,"Bengtsson,  John Viktor",Hombre,26.0,0,0,347068,7.78,Desconocido,Southampton,Senor
+163,164,No,Tercera,"Calic,  Jovo",Hombre,17.0,0,0,315093,8.66,Desconocido,Southampton,Senor
+164,165,No,Tercera,"Panula,  Eino Viljami",Hombre,1.0,4,1,3101295,39.69,Desconocido,Southampton,Joven
+165,166,Si,Tercera,"Goldsmith,  Frank John William ""Frankie""",Hombre,9.0,0,2,363291,20.52,Desconocido,Southampton,Joven
+166,167,Si,Primera,"Chibnall,  (Edith Martha Bowerman)",Mujer,29.7,0,1,113505,55.0,E33,Southampton,Señora
+167,168,No,Tercera,"Skoog,  William (Anna Bernhardina Karlsson)",Mujer,45.0,1,4,347088,27.9,Desconocido,Southampton,Señora
+168,169,No,Primera,"Baumann,  John D",Hombre,29.7,0,0,PC 17318,25.92,Desconocido,Southampton,Senor
+169,170,No,Tercera,"Ling,  Lee",Hombre,28.0,0,0,1601,56.5,Desconocido,Southampton,Senor
+170,171,No,Primera,"Van der hoef,  Wyckoff",Hombre,61.0,0,0,111240,33.5,B19,Southampton,Senor
+171,172,No,Tercera,"Rice,  Arthur",Hombre,4.0,4,1,382652,29.12,Desconocido,Queenstown,Joven
+172,173,Si,Tercera,"Johnson,  Eleanor Ileen",Mujer,1.0,1,1,347742,11.13,Desconocido,Southampton,Joven
+173,174,No,Tercera,"Sivola,  Antti Wilhelm",Hombre,21.0,0,0,STON/O 2. 3101280,7.92,Desconocido,Southampton,Senor
+174,175,No,Primera,"Smith,  James Clinch",Hombre,56.0,0,0,17764,30.7,A7,Cherbourg,Senor
+175,176,No,Tercera,"Klasen,  Klas Albin",Hombre,18.0,1,1,350404,7.85,Desconocido,Southampton,Senor
+176,177,No,Tercera,"Lefebre,  Henry Forbes",Hombre,29.7,3,1,4133,25.47,Desconocido,Southampton,Senor
+177,178,No,Primera,"Isham,  Ann Elizabeth",Mujer,50.0,0,0,PC 17595,28.71,C49,Cherbourg,Señorita
+178,179,No,Segunda,"Hale,  Reginald",Hombre,30.0,0,0,250653,13.0,Desconocido,Southampton,Senor
+179,180,No,Tercera,"Leonard,  Lionel",Hombre,36.0,0,0,LINE,0.0,Desconocido,Southampton,Senor
+180,181,No,Tercera,"Sage,  Constance Gladys",Mujer,29.7,8,2,CA. 2343,69.55,Desconocido,Southampton,Señorita
+181,182,No,Segunda,"Pernot,  Rene",Hombre,29.7,0,0,SC/PARIS 2131,15.05,Desconocido,Cherbourg,Senor
+182,183,No,Tercera,"Asplund,  Clarence Gustaf Hugo",Hombre,9.0,4,2,347077,31.39,Desconocido,Southampton,Joven
+183,184,Si,Segunda,"Becker,  Richard F",Hombre,1.0,2,1,230136,39.0,F4,Southampton,Joven
+184,185,Si,Tercera,"Kink-Heilmann,  Luise Gretchen",Mujer,4.0,0,2,315153,22.02,Desconocido,Southampton,Joven
+185,186,No,Primera,"Rood,  Hugh Roscoe",Hombre,29.7,0,0,113767,50.0,A32,Southampton,Senor
+186,187,Si,Tercera,"O'Brien,  Thomas (Johanna ""Hannah"" Godfrey)",Mujer,29.7,1,0,370365,15.5,Desconocido,Queenstown,Señora
+187,188,Si,Primera,"Romaine,  Charles Hallace (""Mr C Rolmane"")",Hombre,45.0,0,0,111428,26.55,Desconocido,Southampton,Senor
+188,189,No,Tercera,"Bourke,  John",Hombre,40.0,1,1,364849,15.5,Desconocido,Queenstown,Senor
+189,190,No,Tercera,"Turcin,  Stjepan",Hombre,36.0,0,0,349247,7.9,Desconocido,Southampton,Senor
+190,191,Si,Segunda,"Pinsky,  (Rosa)",Mujer,32.0,0,0,234604,13.0,Desconocido,Southampton,Señora
+191,192,No,Segunda,"Carbines,  William",Hombre,19.0,0,0,28424,13.0,Desconocido,Southampton,Senor
+192,193,Si,Tercera,"Andersen-Jensen,  Carla Christine Nielsine",Mujer,19.0,1,0,350046,7.85,Desconocido,Southampton,Señorita
+193,194,Si,Segunda,"Navratil,  Michel M",Hombre,3.0,1,1,230080,26.0,F2,Southampton,Joven
+194,195,Si,Primera,"Brown,  James Joseph (Margaret Tobin)",Mujer,44.0,0,0,PC 17610,27.72,B4,Cherbourg,Señora
+195,196,Si,Primera,"Lurette,  Elise",Mujer,58.0,0,0,PC 17569,146.52,B80,Cherbourg,Señorita
+196,197,No,Tercera,"Mernagh,  Robert",Hombre,29.7,0,0,368703,7.75,Desconocido,Queenstown,Senor
+197,198,No,Tercera,"Olsen,  Karl Siegwart Andreas",Hombre,42.0,0,1,4579,8.4,Desconocido,Southampton,Senor
+198,199,Si,Tercera,"Madigan,  Margaret ""Maggie""",Mujer,29.7,0,0,370370,7.75,Desconocido,Queenstown,Señorita
+199,200,No,Segunda,"Yrois,  Henriette (""Mrs Harbeck"")",Mujer,24.0,0,0,248747,13.0,Desconocido,Southampton,Señorita
+200,201,No,Tercera,"Vande Walle,  Nestor Cyriel",Hombre,28.0,0,0,345770,9.5,Desconocido,Southampton,Senor
+201,202,No,Tercera,"Sage,  Frederick",Hombre,29.7,8,2,CA. 2343,69.55,Desconocido,Southampton,Senor
+202,203,No,Tercera,"Johanson,  Jakob Alfred",Hombre,34.0,0,0,3101264,6.5,Desconocido,Southampton,Senor
+203,204,No,Tercera,"Youseff,  Gerious",Hombre,45.5,0,0,2628,7.22,Desconocido,Cherbourg,Senor
+204,205,Si,Tercera,"Cohen,  Gurshon ""Gus""",Hombre,18.0,0,0,A/5 3540,8.05,Desconocido,Southampton,Senor
+205,206,No,Tercera,"Strom,  Telma Matilda",Mujer,2.0,0,1,347054,10.46,G6,Southampton,Joven
+206,207,No,Tercera,"Backstrom,  Karl Alfred",Hombre,32.0,1,0,3101278,15.85,Desconocido,Southampton,Senor
+207,208,Si,Tercera,"Albimona,  Nassef Cassem",Hombre,26.0,0,0,2699,18.79,Desconocido,Cherbourg,Senor
+208,209,Si,Tercera,"Carr,  Helen ""Ellen""",Mujer,16.0,0,0,367231,7.75,Desconocido,Queenstown,Señorita
+209,210,Si,Primera,"Blank,  Henry",Hombre,40.0,0,0,112277,31.0,A31,Cherbourg,Senor
+210,211,No,Tercera,"Ali,  Ahmed",Hombre,24.0,0,0,SOTON/O.Q. 3101311,7.05,Desconocido,Southampton,Senor
+211,212,Si,Segunda,"Cameron,  Clear Annie",Mujer,35.0,0,0,F.C.C. 13528,21.0,Desconocido,Southampton,Señorita
+212,213,No,Tercera,"Perkin,  John Henry",Hombre,22.0,0,0,A/5 21174,7.25,Desconocido,Southampton,Senor
+213,214,No,Segunda,"Givard,  Hans Kristensen",Hombre,30.0,0,0,250646,13.0,Desconocido,Southampton,Senor
+214,215,No,Tercera,"Kiernan,  Philip",Hombre,29.7,1,0,367229,7.75,Desconocido,Queenstown,Senor
+215,216,Si,Primera,"Newell,  Madeleine",Mujer,31.0,1,0,35273,113.28,D36,Cherbourg,Señorita
+216,217,Si,Tercera,"Honkanen,  Eliina",Mujer,27.0,0,0,STON/O2. 3101283,7.92,Desconocido,Southampton,Señorita
+217,218,No,Segunda,"Jacobsohn,  Sidney Samuel",Hombre,42.0,1,0,243847,27.0,Desconocido,Southampton,Senor
+218,219,Si,Primera,"Bazzani,  Albina",Mujer,32.0,0,0,11813,76.29,D15,Cherbourg,Señorita
+219,220,No,Segunda,"Harris,  Walter",Hombre,30.0,0,0,W/C 14208,10.5,Desconocido,Southampton,Senor
+220,221,Si,Tercera,"Sunderland,  Victor Francis",Hombre,16.0,0,0,SOTON/OQ 392089,8.05,Desconocido,Southampton,Senor
+221,222,No,Segunda,"Bracken,  James H",Hombre,27.0,0,0,220367,13.0,Desconocido,Southampton,Senor
+222,223,No,Tercera,"Green,  George Henry",Hombre,51.0,0,0,21440,8.05,Desconocido,Southampton,Senor
+223,224,No,Tercera,"Nenkoff,  Christo",Hombre,29.7,0,0,349234,7.9,Desconocido,Southampton,Senor
+224,225,Si,Primera,"Hoyt,  Frederick Maxfield",Hombre,38.0,1,0,19943,90.0,C93,Southampton,Senor
+225,226,No,Tercera,"Berglund,  Karl Ivar Sven",Hombre,22.0,0,0,PP 4348,9.35,Desconocido,Southampton,Senor
+226,227,Si,Segunda,"Mellors,  William John",Hombre,19.0,0,0,SW/PP 751,10.5,Desconocido,Southampton,Senor
+227,228,No,Tercera,"Lovell,  John Hall (""Henry"")",Hombre,20.5,0,0,A/5 21173,7.25,Desconocido,Southampton,Senor
+228,229,No,Segunda,"Fahlstrom,  Arne Jonas",Hombre,18.0,0,0,236171,13.0,Desconocido,Southampton,Senor
+229,230,No,Tercera,"Lefebre,  Mathilde",Mujer,29.7,3,1,4133,25.47,Desconocido,Southampton,Señorita
+230,231,Si,Primera,"Harris,  Henry Birkhardt (Irene Wallach)",Mujer,35.0,1,0,36973,83.48,C83,Southampton,Señora
+231,232,No,Tercera,"Larsson,  Bengt Edvin",Hombre,29.0,0,0,347067,7.78,Desconocido,Southampton,Senor
+232,233,No,Segunda,"Sjostedt,  Ernst Adolf",Hombre,59.0,0,0,237442,13.5,Desconocido,Southampton,Senor
+233,234,Si,Tercera,"Asplund,  Lillian Gertrud",Mujer,5.0,4,2,347077,31.39,Desconocido,Southampton,Joven
+234,235,No,Segunda,"Leyson,  Robert William Norman",Hombre,24.0,0,0,C.A. 29566,10.5,Desconocido,Southampton,Senor
+235,236,No,Tercera,"Harknett,  Alice Phoebe",Mujer,29.7,0,0,W./C. 6609,7.55,Desconocido,Southampton,Señorita
+236,237,No,Segunda,"Hold,  Stephen",Hombre,44.0,1,0,26707,26.0,Desconocido,Southampton,Senor
+237,238,Si,Segunda,"Collyer,  Marjorie ""Lottie""",Mujer,8.0,0,2,C.A. 31921,26.25,Desconocido,Southampton,Joven
+238,239,No,Segunda,"Pengelly,  Frederick William",Hombre,19.0,0,0,28665,10.5,Desconocido,Southampton,Senor
+239,240,No,Segunda,"Hunt,  George Henry",Hombre,33.0,0,0,SCO/W 1585,12.28,Desconocido,Southampton,Senor
+240,241,No,Tercera,"Zabour,  Thamine",Mujer,29.7,1,0,2665,14.45,Desconocido,Cherbourg,Señorita
+241,242,Si,Tercera,"Murphy,  Katherine ""Kate""",Mujer,29.7,1,0,367230,15.5,Desconocido,Queenstown,Señorita
+242,243,No,Segunda,"Coleridge,  Reginald Charles",Hombre,29.0,0,0,W./C. 14263,10.5,Desconocido,Southampton,Senor
+243,244,No,Tercera,"Maenpaa,  Matti Alexanteri",Hombre,22.0,0,0,STON/O 2. 3101275,7.12,Desconocido,Southampton,Senor
+244,245,No,Tercera,"Attalah,  Sleiman",Hombre,30.0,0,0,2694,7.22,Desconocido,Cherbourg,Senor
+245,246,No,Primera,"Minahan,  William Edward",Hombre,44.0,2,0,19928,90.0,C78,Queenstown,Doctor
+246,247,No,Tercera,"Lindahl,  Agda Thorilda Viktoria",Mujer,25.0,0,0,347071,7.78,Desconocido,Southampton,Señorita
+247,248,Si,Segunda,"Hamalainen,  William (Anna)",Mujer,24.0,0,2,250649,14.5,Desconocido,Southampton,Señora
+248,249,Si,Primera,"Beckwith,  Richard Leonard",Hombre,37.0,1,1,11751,52.55,D35,Southampton,Senor
+249,250,No,Segunda,"Carter,  Ernest Courtenay",Hombre,54.0,1,0,244252,26.0,Desconocido,Southampton,Sacerdote
+250,251,No,Tercera,"Reed,  James George",Hombre,29.7,0,0,362316,7.25,Desconocido,Southampton,Senor
+251,252,No,Tercera,"Strom,  Wilhelm (Elna Matilda Persson)",Mujer,29.0,1,1,347054,10.46,G6,Southampton,Señora
+252,253,No,Primera,"Stead,  William Thomas",Hombre,62.0,0,0,113514,26.55,C87,Southampton,Senor
+253,254,No,Tercera,"Lobb,  William Arthur",Hombre,30.0,1,0,A/5. 3336,16.1,Desconocido,Southampton,Senor
+254,255,No,Tercera,"Rosblom,  Viktor (Helena Wilhelmina)",Mujer,41.0,0,2,370129,20.21,Desconocido,Southampton,Señora
+255,256,Si,Tercera,"Touma,  Darwis (Hanne Youssef Razi)",Mujer,29.0,0,2,2650,15.25,Desconocido,Cherbourg,Señora
+256,257,Si,Primera,"Thorne,  Gertrude Maybelle",Mujer,29.7,0,0,PC 17585,79.2,Desconocido,Cherbourg,Señora
+257,258,Si,Primera,"Cherry,  Gladys",Mujer,30.0,0,0,110152,86.5,B77,Southampton,Señorita
+258,259,Si,Primera,"Ward,  Anna",Mujer,35.0,0,0,PC 17755,512.33,Desconocido,Cherbourg,Señorita
+259,260,Si,Segunda,"Parrish,  (Lutie Davis)",Mujer,50.0,0,1,230433,26.0,Desconocido,Southampton,Señora
+260,261,No,Tercera,"Smith,  Thomas",Hombre,29.7,0,0,384461,7.75,Desconocido,Queenstown,Senor
+261,262,Si,Tercera,"Asplund,  Edvin Rojj Felix",Hombre,3.0,4,2,347077,31.39,Desconocido,Southampton,Joven
+262,263,No,Primera,"Taussig,  Emil",Hombre,52.0,1,1,110413,79.65,E67,Southampton,Senor
+263,264,No,Primera,"Harrison,  William",Hombre,40.0,0,0,112059,0.0,B94,Southampton,Senor
+264,265,No,Tercera,"Henry,  Delia",Mujer,29.7,0,0,382649,7.75,Desconocido,Queenstown,Señorita
+265,266,No,Segunda,"Reeves,  David",Hombre,36.0,0,0,C.A. 17248,10.5,Desconocido,Southampton,Senor
+266,267,No,Tercera,"Panula,  Ernesti Arvid",Hombre,16.0,4,1,3101295,39.69,Desconocido,Southampton,Senor
+267,268,Si,Tercera,"Persson,  Ernst Ulrik",Hombre,25.0,1,0,347083,7.78,Desconocido,Southampton,Senor
+268,269,Si,Primera,"Graham,  William Thompson (Edith Junkins)",Mujer,58.0,0,1,PC 17582,153.46,C125,Southampton,Señora
+269,270,Si,Primera,"Bissette,  Amelia",Mujer,35.0,0,0,PC 17760,135.63,C99,Southampton,Señorita
+270,271,No,Primera,"Cairns,  Alexander",Hombre,29.7,0,0,113798,31.0,Desconocido,Southampton,Senor
+271,272,Si,Tercera,"Tornquist,  William Henry",Hombre,25.0,0,0,LINE,0.0,Desconocido,Southampton,Senor
+272,273,Si,Segunda,"Mellinger,  (Elizabeth Anne Maidment)",Mujer,41.0,0,1,250644,19.5,Desconocido,Southampton,Señora
+273,274,No,Primera,"Natsch,  Charles H",Hombre,37.0,0,1,PC 17596,29.7,C118,Cherbourg,Senor
+274,275,Si,Tercera,"Healy,  Hanora ""Nora""",Mujer,29.7,0,0,370375,7.75,Desconocido,Queenstown,Señorita
+275,276,Si,Primera,"Andrews,  Kornelia Theodosia",Mujer,63.0,1,0,13502,77.96,D7,Southampton,Señorita
+276,277,No,Tercera,"Lindblom,  Augusta Charlotta",Mujer,45.0,0,0,347073,7.75,Desconocido,Southampton,Señorita
+277,278,No,Segunda,"Parkes,  Francis ""Frank""",Hombre,29.7,0,0,239853,0.0,Desconocido,Southampton,Senor
+278,279,No,Tercera,"Rice,  Eric",Hombre,7.0,4,1,382652,29.12,Desconocido,Queenstown,Joven
+279,280,Si,Tercera,"Abbott,  Stanton (Rosa Hunt)",Mujer,35.0,1,1,C.A. 2673,20.25,Desconocido,Southampton,Señora
+280,281,No,Tercera,"Duane,  Frank",Hombre,65.0,0,0,336439,7.75,Desconocido,Queenstown,Senor
+281,282,No,Tercera,"Olsson,  Nils Johan Goransson",Hombre,28.0,0,0,347464,7.85,Desconocido,Southampton,Senor
+282,283,No,Tercera,"de Pelsmaeker,  Alfons",Hombre,16.0,0,0,345778,9.5,Desconocido,Southampton,Senor
+283,284,Si,Tercera,"Dorking,  Edward Arthur",Hombre,19.0,0,0,A/5. 10482,8.05,Desconocido,Southampton,Senor
+284,285,No,Primera,"Smith,  Richard William",Hombre,29.7,0,0,113056,26.0,A19,Southampton,Senor
+285,286,No,Tercera,"Stankovic,  Ivan",Hombre,33.0,0,0,349239,8.66,Desconocido,Cherbourg,Senor
+286,287,Si,Tercera,"de Mulder,  Theodore",Hombre,30.0,0,0,345774,9.5,Desconocido,Southampton,Senor
+287,288,No,Tercera,"Naidenoff,  Penko",Hombre,22.0,0,0,349206,7.9,Desconocido,Southampton,Senor
+288,289,Si,Segunda,"Hosono,  Masabumi",Hombre,42.0,0,0,237798,13.0,Desconocido,Southampton,Senor
+289,290,Si,Tercera,"Connolly,  Kate",Mujer,22.0,0,0,370373,7.75,Desconocido,Queenstown,Señorita
+290,291,Si,Primera,"Barber,  Ellen ""Nellie""",Mujer,26.0,0,0,19877,78.85,Desconocido,Southampton,Señorita
+291,292,Si,Primera,"Bishop,  Dickinson H (Helen Walton)",Mujer,19.0,1,0,11967,91.08,B49,Cherbourg,Señora
+292,293,No,Segunda,"Levy,  Rene Jacques",Hombre,36.0,0,0,SC/Paris 2163,12.88,D,Cherbourg,Senor
+293,294,No,Tercera,"Haas,  Aloisia",Mujer,24.0,0,0,349236,8.85,Desconocido,Southampton,Señorita
+294,295,No,Tercera,"Mineff,  Ivan",Hombre,24.0,0,0,349233,7.9,Desconocido,Southampton,Senor
+295,296,No,Primera,"Lewy,  Ervin G",Hombre,29.7,0,0,PC 17612,27.72,Desconocido,Cherbourg,Senor
+296,297,No,Tercera,"Hanna,  Mansour",Hombre,23.5,0,0,2693,7.23,Desconocido,Cherbourg,Senor
+297,298,No,Primera,"Allison,  Helen Loraine",Mujer,2.0,1,2,113781,151.55,C22 C26,Southampton,Joven
+298,299,Si,Primera,"Saalfeld,  Adolphe",Hombre,29.7,0,0,19988,30.5,C106,Southampton,Senor
+299,300,Si,Primera,"Baxter,  James (Helene DeLaudeniere Chaput)",Mujer,50.0,0,1,PC 17558,247.52,B58 B60,Cherbourg,Señora
+300,301,Si,Tercera,"Kelly,  Anna Katherine ""Annie Kate""",Mujer,29.7,0,0,9234,7.75,Desconocido,Queenstown,Señorita
+301,302,Si,Tercera,"McCoy,  Bernard",Hombre,29.7,2,0,367226,23.25,Desconocido,Queenstown,Senor
+302,303,No,Tercera,"Johnson,  William Cahoone Jr",Hombre,19.0,0,0,LINE,0.0,Desconocido,Southampton,Senor
+303,304,Si,Segunda,"Keane,  Nora A",Mujer,29.7,0,0,226593,12.35,E101,Queenstown,Señorita
+304,305,No,Tercera,"Williams,  Howard Hugh ""Harry""",Hombre,29.7,0,0,A/5 2466,8.05,Desconocido,Southampton,Senor
+305,306,Si,Primera,"Allison,  Hudson Trevor",Hombre,0.92,1,2,113781,151.55,C22 C26,Southampton,Joven
+306,307,Si,Primera,"Fleming,  Margaret",Mujer,29.7,0,0,17421,110.88,Desconocido,Cherbourg,Señorita
+307,308,Si,Primera,"Penasco y Castellana,  Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",Mujer,17.0,1,0,PC 17758,108.9,C65,Cherbourg,Señora
+308,309,No,Segunda,"Abelson,  Samuel",Hombre,30.0,1,0,P/PP 3381,24.0,Desconocido,Cherbourg,Senor
+309,310,Si,Primera,"Francatelli,  Laura Mabel",Mujer,30.0,0,0,PC 17485,56.93,E36,Cherbourg,Señorita
+310,311,Si,Primera,"Hays,  Margaret Bechstein",Mujer,24.0,0,0,11767,83.16,C54,Cherbourg,Señorita
+311,312,Si,Primera,"Ryerson,  Emily Borie",Mujer,18.0,2,2,PC 17608,262.38,B57 B59 B63 B66,Cherbourg,Señorita
+312,313,No,Segunda,"Lahtinen,  William (Anna Sylfven)",Mujer,26.0,1,1,250651,26.0,Desconocido,Southampton,Señora
+313,314,No,Tercera,"Hendekovic,  Ignjac",Hombre,28.0,0,0,349243,7.9,Desconocido,Southampton,Senor
+314,315,No,Segunda,"Hart,  Benjamin",Hombre,43.0,1,1,F.C.C. 13529,26.25,Desconocido,Southampton,Senor
+315,316,Si,Tercera,"Nilsson,  Helmina Josefina",Mujer,26.0,0,0,347470,7.85,Desconocido,Southampton,Señorita
+316,317,Si,Segunda,"Kantor,  Sinai (Miriam Sternin)",Mujer,24.0,1,0,244367,26.0,Desconocido,Southampton,Señora
+317,318,No,Segunda,"Moraweck,  Ernest",Hombre,54.0,0,0,29011,14.0,Desconocido,Southampton,Doctor
+318,319,Si,Primera,"Wick,  Mary Natalie",Mujer,31.0,0,2,36928,164.87,C7,Southampton,Señorita
+319,320,Si,Primera,"Spedden,  Frederic Oakley (Margaretta Corning Stone)",Mujer,40.0,1,1,16966,134.5,E34,Cherbourg,Señora
+320,321,No,Tercera,"Dennis,  Samuel",Hombre,22.0,0,0,A/5 21172,7.25,Desconocido,Southampton,Senor
+321,322,No,Tercera,"Danoff,  Yoto",Hombre,27.0,0,0,349219,7.9,Desconocido,Southampton,Senor
+322,323,Si,Segunda,"Slayter,  Hilda Mary",Mujer,30.0,0,0,234818,12.35,Desconocido,Queenstown,Señorita
+323,324,Si,Segunda,"Caldwell,  Albert Francis (Sylvia Mae Harbaugh)",Mujer,22.0,1,1,248738,29.0,Desconocido,Southampton,Señora
+324,325,No,Tercera,"Sage,  George John Jr",Hombre,29.7,8,2,CA. 2343,69.55,Desconocido,Southampton,Senor
+325,326,Si,Primera,"Young,  Marie Grice",Mujer,36.0,0,0,PC 17760,135.63,C32,Cherbourg,Señorita
+326,327,No,Tercera,"Nysveen,  Johan Hansen",Hombre,61.0,0,0,345364,6.24,Desconocido,Southampton,Senor
+327,328,Si,Segunda,"Ball,  (Ada E Hall)",Mujer,36.0,0,0,28551,13.0,D,Southampton,Señora
+328,329,Si,Tercera,"Goldsmith,  Frank John (Emily Alice Brown)",Mujer,31.0,1,1,363291,20.52,Desconocido,Southampton,Señora
+329,330,Si,Primera,"Hippach,  Jean Gertrude",Mujer,16.0,0,1,111361,57.98,B18,Cherbourg,Señorita
+330,331,Si,Tercera,"McCoy,  Agnes",Mujer,29.7,2,0,367226,23.25,Desconocido,Queenstown,Señorita
+331,332,No,Primera,"Partner,  Austen",Hombre,45.5,0,0,113043,28.5,C124,Southampton,Senor
+332,333,No,Primera,"Graham,  George Edward",Hombre,38.0,0,1,PC 17582,153.46,C91,Southampton,Senor
+333,334,No,Tercera,"Vander Planke,  Leo Edmondus",Hombre,16.0,2,0,345764,18.0,Desconocido,Southampton,Senor
+334,335,Si,Primera,"Frauenthal,  Henry William (Clara Heinsheimer)",Mujer,29.7,1,0,PC 17611,133.65,Desconocido,Southampton,Señora
+335,336,No,Tercera,"Denkoff,  Mitto",Hombre,29.7,0,0,349225,7.9,Desconocido,Southampton,Senor
+336,337,No,Primera,"Pears,  Thomas Clinton",Hombre,29.0,1,0,113776,66.6,C2,Southampton,Senor
+337,338,Si,Primera,"Burns,  Elizabeth Margaret",Mujer,41.0,0,0,16966,134.5,E40,Cherbourg,Señorita
+338,339,Si,Tercera,"Dahl,  Karl Edwart",Hombre,45.0,0,0,7598,8.05,Desconocido,Southampton,Senor
+339,340,No,Primera,"Blackwell,  Stephen Weart",Hombre,45.0,0,0,113784,35.5,T,Southampton,Senor
+340,341,Si,Segunda,"Navratil,  Edmond Roger",Hombre,2.0,1,1,230080,26.0,F2,Southampton,Joven
+341,342,Si,Primera,"Fortune,  Alice Elizabeth",Mujer,24.0,3,2,19950,263.0,C23 C25 C27,Southampton,Señorita
+342,343,No,Segunda,"Collander,  Erik Gustaf",Hombre,28.0,0,0,248740,13.0,Desconocido,Southampton,Senor
+343,344,No,Segunda,"Sedgwick,  Charles Frederick Waddington",Hombre,25.0,0,0,244361,13.0,Desconocido,Southampton,Senor
+344,345,No,Segunda,"Fox,  Stanley Hubert",Hombre,36.0,0,0,229236,13.0,Desconocido,Southampton,Senor
+345,346,Si,Segunda,"Brown,  Amelia ""Mildred""",Mujer,24.0,0,0,248733,13.0,F33,Southampton,Señorita
+346,347,Si,Segunda,"Smith,  Marion Elsie",Mujer,40.0,0,0,31418,13.0,Desconocido,Southampton,Señorita
+347,348,Si,Tercera,"Davison,  Thomas Henry (Mary E Finck)",Mujer,29.7,1,0,386525,16.1,Desconocido,Southampton,Señora
+348,349,Si,Tercera,"Coutts,  William Loch ""William""",Hombre,3.0,1,1,C.A. 37671,15.9,Desconocido,Southampton,Joven
+349,350,No,Tercera,"Dimic,  Jovan",Hombre,42.0,0,0,315088,8.66,Desconocido,Southampton,Senor
+350,351,No,Tercera,"Odahl,  Nils Martin",Hombre,23.0,0,0,7267,9.22,Desconocido,Southampton,Senor
+351,352,No,Primera,"Williams-Lambert,  Fletcher Fellows",Hombre,29.7,0,0,113510,35.0,C128,Southampton,Senor
+352,353,No,Tercera,"Elias,  Tannous",Hombre,15.0,1,1,2695,7.23,Desconocido,Cherbourg,Joven
+353,354,No,Tercera,"Arnold-Franchi,  Josef",Hombre,25.0,1,0,349237,17.8,Desconocido,Southampton,Senor
+354,355,No,Tercera,"Yousif,  Wazli",Hombre,29.7,0,0,2647,7.22,Desconocido,Cherbourg,Senor
+355,356,No,Tercera,"Vanden Steen,  Leo Peter",Hombre,28.0,0,0,345783,9.5,Desconocido,Southampton,Senor
+356,357,Si,Primera,"Bowerman,  Elsie Edith",Mujer,22.0,0,1,113505,55.0,E33,Southampton,Señorita
+357,358,No,Segunda,"Funk,  Annie Clemmer",Mujer,38.0,0,0,237671,13.0,Desconocido,Southampton,Señorita
+358,359,Si,Tercera,"McGovern,  Mary",Mujer,29.7,0,0,330931,7.88,Desconocido,Queenstown,Señorita
+359,360,Si,Tercera,"Mockler,  Helen Mary ""Ellie""",Mujer,29.7,0,0,330980,7.88,Desconocido,Queenstown,Señorita
+360,361,No,Tercera,"Skoog,  Wilhelm",Hombre,40.0,1,4,347088,27.9,Desconocido,Southampton,Senor
+361,362,No,Segunda,"del Carlo,  Sebastiano",Hombre,29.0,1,0,SC/PARIS 2167,27.72,Desconocido,Cherbourg,Senor
+362,363,No,Tercera,"Barbara,  (Catherine David)",Mujer,45.0,0,1,2691,14.45,Desconocido,Cherbourg,Señora
+363,364,No,Tercera,"Asim,  Adola",Hombre,35.0,0,0,SOTON/O.Q. 3101310,7.05,Desconocido,Southampton,Senor
+364,365,No,Tercera,"O'Brien,  Thomas",Hombre,29.7,1,0,370365,15.5,Desconocido,Queenstown,Senor
+365,366,No,Tercera,"Adahl,  Mauritz Nils Martin",Hombre,30.0,0,0,C 7076,7.25,Desconocido,Southampton,Senor
+366,367,Si,Primera,"Warren,  Frank Manley (Anna Sophia Atkinson)",Mujer,60.0,1,0,110813,75.25,D37,Cherbourg,Señora
+367,368,Si,Tercera,"Moussa,  (Mantoura Boulos)",Mujer,29.7,0,0,2626,7.23,Desconocido,Cherbourg,Señora
+368,369,Si,Tercera,"Jermyn,  Annie",Mujer,29.7,0,0,14313,7.75,Desconocido,Queenstown,Señorita
+369,370,Si,Primera,"Aubart,  Leontine Pauline",Mujer,24.0,0,0,PC 17477,69.3,B35,Cherbourg,Señora
+370,371,Si,Primera,"Harder,  George Achilles",Hombre,25.0,1,0,11765,55.44,E50,Cherbourg,Senor
+371,372,No,Tercera,"Wiklund,  Jakob Alfred",Hombre,18.0,1,0,3101267,6.5,Desconocido,Southampton,Senor
+372,373,No,Tercera,"Beavan,  William Thomas",Hombre,19.0,0,0,323951,8.05,Desconocido,Southampton,Senor
+373,374,No,Primera,"Ringhini,  Sante",Hombre,22.0,0,0,PC 17760,135.63,Desconocido,Cherbourg,Senor
+374,375,No,Tercera,"Palsson,  Stina Viola",Mujer,3.0,3,1,349909,21.08,Desconocido,Southampton,Joven
+375,376,Si,Primera,"Meyer,  Edgar Joseph (Leila Saks)",Mujer,29.7,1,0,PC 17604,82.17,Desconocido,Cherbourg,Señora
+376,377,Si,Tercera,"Landergren,  Aurora Adelia",Mujer,22.0,0,0,C 7077,7.25,Desconocido,Southampton,Señorita
+377,378,No,Primera,"Widener,  Harry Elkins",Hombre,27.0,0,2,113503,211.5,C82,Cherbourg,Senor
+378,379,No,Tercera,"Betros,  Tannous",Hombre,20.0,0,0,2648,4.01,Desconocido,Cherbourg,Senor
+379,380,No,Tercera,"Gustafsson,  Karl Gideon",Hombre,19.0,0,0,347069,7.78,Desconocido,Southampton,Senor
+380,381,Si,Primera,"Bidois,  Rosalie",Mujer,42.0,0,0,PC 17757,227.52,Desconocido,Cherbourg,Señorita
+381,382,Si,Tercera,"Nakid,  Maria (""Mary"")",Mujer,1.0,0,2,2653,15.74,Desconocido,Cherbourg,Joven
+382,383,No,Tercera,"Tikkanen,  Juho",Hombre,32.0,0,0,STON/O 2. 3101293,7.92,Desconocido,Southampton,Senor
+383,384,Si,Primera,"Holverson,  Alexander Oskar (Mary Aline Towner)",Mujer,35.0,1,0,113789,52.0,Desconocido,Southampton,Señora
+384,385,No,Tercera,"Plotcharsky,  Vasil",Hombre,29.7,0,0,349227,7.9,Desconocido,Southampton,Senor
+385,386,No,Segunda,"Davies,  Charles Henry",Hombre,18.0,0,0,S.O.C. 14879,73.5,Desconocido,Southampton,Senor
+386,387,No,Tercera,"Goodwin,  Sidney Leonard",Hombre,1.0,5,2,CA 2144,46.9,Desconocido,Southampton,Joven
+387,388,Si,Segunda,"Buss,  Kate",Mujer,36.0,0,0,27849,13.0,Desconocido,Southampton,Señorita
+388,389,No,Tercera,"Sadlier,  Matthew",Hombre,29.7,0,0,367655,7.73,Desconocido,Queenstown,Senor
+389,390,Si,Segunda,"Lehmann,  Bertha",Mujer,17.0,0,0,SC 1748,12.0,Desconocido,Cherbourg,Señorita
+390,391,Si,Primera,"Carter,  William Ernest",Hombre,36.0,1,2,113760,120.0,B96 B98,Southampton,Senor
+391,392,Si,Tercera,"Jansson,  Carl Olof",Hombre,21.0,0,0,350034,7.8,Desconocido,Southampton,Senor
+392,393,No,Tercera,"Gustafsson,  Johan Birger",Hombre,28.0,2,0,3101277,7.92,Desconocido,Southampton,Senor
+393,394,Si,Primera,"Newell,  Marjorie",Mujer,23.0,1,0,35273,113.28,D36,Cherbourg,Señorita
+394,395,Si,Tercera,"Sandstrom,  Hjalmar (Agnes Charlotta Bengtsson)",Mujer,24.0,0,2,PP 9549,16.7,G6,Southampton,Señora
+395,396,No,Tercera,"Johansson,  Erik",Hombre,22.0,0,0,350052,7.8,Desconocido,Southampton,Senor
+396,397,No,Tercera,"Olsson,  Elina",Mujer,31.0,0,0,350407,7.85,Desconocido,Southampton,Señorita
+397,398,No,Segunda,"McKane,  Peter David",Hombre,46.0,0,0,28403,26.0,Desconocido,Southampton,Senor
+398,399,No,Segunda,"Pain,  Alfred",Hombre,23.0,0,0,244278,10.5,Desconocido,Southampton,Doctor
+399,400,Si,Segunda,"Trout,  William H (Jessie L)",Mujer,28.0,0,0,240929,12.65,Desconocido,Southampton,Señora
+400,401,Si,Tercera,"Niskanen,  Juha",Hombre,39.0,0,0,STON/O 2. 3101289,7.92,Desconocido,Southampton,Senor
+401,402,No,Tercera,"Adams,  John",Hombre,26.0,0,0,341826,8.05,Desconocido,Southampton,Senor
+402,403,No,Tercera,"Jussila,  Mari Aina",Mujer,21.0,1,0,4137,9.82,Desconocido,Southampton,Señorita
+403,404,No,Tercera,"Hakkarainen,  Pekka Pietari",Hombre,28.0,1,0,STON/O2. 3101279,15.85,Desconocido,Southampton,Senor
+404,405,No,Tercera,"Oreskovic,  Marija",Mujer,20.0,0,0,315096,8.66,Desconocido,Southampton,Señorita
+405,406,No,Segunda,"Gale,  Shadrach",Hombre,34.0,1,0,28664,21.0,Desconocido,Southampton,Senor
+406,407,No,Tercera,"Widegren,  Carl/Charles Peter",Hombre,51.0,0,0,347064,7.75,Desconocido,Southampton,Senor
+407,408,Si,Segunda,"Richards,  William Rowe",Hombre,3.0,1,1,29106,18.75,Desconocido,Southampton,Joven
+408,409,No,Tercera,"Birkeland,  Hans Martin Monsen",Hombre,21.0,0,0,312992,7.78,Desconocido,Southampton,Senor
+409,410,No,Tercera,"Lefebre,  Ida",Mujer,29.7,3,1,4133,25.47,Desconocido,Southampton,Señorita
+410,411,No,Tercera,"Sdycoff,  Todor",Hombre,29.7,0,0,349222,7.9,Desconocido,Southampton,Senor
+411,412,No,Tercera,"Hart,  Henry",Hombre,29.7,0,0,394140,6.86,Desconocido,Queenstown,Senor
+412,413,Si,Primera,"Minahan,  Daisy E",Mujer,33.0,1,0,19928,90.0,C78,Queenstown,Señorita
+413,414,No,Segunda,"Cunningham,  Alfred Fleming",Hombre,29.7,0,0,239853,0.0,Desconocido,Southampton,Senor
+414,415,Si,Tercera,"Sundman,  Johan Julian",Hombre,44.0,0,0,STON/O 2. 3101269,7.92,Desconocido,Southampton,Senor
+415,416,No,Tercera,"Meek,  Thomas (Annie Louise Rowley)",Mujer,29.7,0,0,343095,8.05,Desconocido,Southampton,Señora
+416,417,Si,Segunda,"Drew,  James Vivian (Lulu Thorne Christian)",Mujer,34.0,1,1,28220,32.5,Desconocido,Southampton,Señora
+417,418,Si,Segunda,"Silven,  Lyyli Karoliina",Mujer,18.0,0,2,250652,13.0,Desconocido,Southampton,Señorita
+418,419,No,Segunda,"Matthews,  William John",Hombre,30.0,0,0,28228,13.0,Desconocido,Southampton,Senor
+419,420,No,Tercera,"Van Impe,  Catharina",Mujer,10.0,0,2,345773,24.15,Desconocido,Southampton,Joven
+420,421,No,Tercera,"Gheorgheff,  Stanio",Hombre,29.7,0,0,349254,7.9,Desconocido,Cherbourg,Senor
+421,422,No,Tercera,"Charters,  David",Hombre,21.0,0,0,A/5. 13032,7.73,Desconocido,Queenstown,Senor
+422,423,No,Tercera,"Zimmerman,  Leo",Hombre,29.0,0,0,315082,7.88,Desconocido,Southampton,Senor
+423,424,No,Tercera,"Danbom,  Ernst Gilbert (Anna Sigrid Maria Brogren)",Mujer,28.0,1,1,347080,14.4,Desconocido,Southampton,Señora
+424,425,No,Tercera,"Rosblom,  Viktor Richard",Hombre,18.0,1,1,370129,20.21,Desconocido,Southampton,Senor
+425,426,No,Tercera,"Wiseman,  Phillippe",Hombre,29.7,0,0,A/4. 34244,7.25,Desconocido,Southampton,Senor
+426,427,Si,Segunda,"Clarke,  Charles V (Ada Maria Winfield)",Mujer,28.0,1,0,2003,26.0,Desconocido,Southampton,Señora
+427,428,Si,Segunda,"Phillips,  Kate Florence (""Mrs Kate Louise Phillips Marshall"")",Mujer,19.0,0,0,250655,26.0,Desconocido,Southampton,Señorita
+428,429,No,Tercera,"Flynn,  James",Hombre,29.7,0,0,364851,7.75,Desconocido,Queenstown,Senor
+429,430,Si,Tercera,"Pickard,  Berk (Berk Trembisky)",Hombre,32.0,0,0,SOTON/O.Q. 392078,8.05,E10,Southampton,Senor
+430,431,Si,Primera,"Bjornstrom-Steffansson,  Mauritz Hakan",Hombre,28.0,0,0,110564,26.55,C52,Southampton,Senor
+431,432,Si,Tercera,"Thorneycroft,  Percival (Florence Kate White)",Mujer,29.7,1,0,376564,16.1,Desconocido,Southampton,Señora
+432,433,Si,Segunda,"Louch,  Charles Alexander (Alice Adelaide Slow)",Mujer,42.0,1,0,SC/AH 3085,26.0,Desconocido,Southampton,Señora
+433,434,No,Tercera,"Kallio,  Nikolai Erland",Hombre,17.0,0,0,STON/O 2. 3101274,7.12,Desconocido,Southampton,Senor
+434,435,No,Primera,"Silvey,  William Baird",Hombre,50.0,1,0,13507,55.9,E44,Southampton,Senor
+435,436,Si,Primera,"Carter,  Lucile Polk",Mujer,14.0,1,2,113760,120.0,B96 B98,Southampton,Joven
+436,437,No,Tercera,"Ford,  Doolina Margaret ""Daisy""",Mujer,21.0,2,2,W./C. 6608,34.38,Desconocido,Southampton,Señorita
+437,438,Si,Segunda,"Richards,  Sidney (Emily Hocking)",Mujer,24.0,2,3,29106,18.75,Desconocido,Southampton,Señora
+438,439,No,Primera,"Fortune,  Mark",Hombre,64.0,1,4,19950,263.0,C23 C25 C27,Southampton,Senor
+439,440,No,Segunda,"Kvillner,  Johan Henrik Johannesson",Hombre,31.0,0,0,C.A. 18723,10.5,Desconocido,Southampton,Senor
+440,441,Si,Segunda,"Hart,  Benjamin (Esther Ada Bloomfield)",Mujer,45.0,1,1,F.C.C. 13529,26.25,Desconocido,Southampton,Señora
+441,442,No,Tercera,"Hampe,  Leon",Hombre,20.0,0,0,345769,9.5,Desconocido,Southampton,Senor
+442,443,No,Tercera,"Petterson,  Johan Emil",Hombre,25.0,1,0,347076,7.78,Desconocido,Southampton,Senor
+443,444,Si,Segunda,"Reynaldo,  Encarnacion",Mujer,28.0,0,0,230434,13.0,Desconocido,Southampton,Señorita
+444,445,Si,Tercera,"Johannesen-Bratthammer,  Bernt",Hombre,29.7,0,0,65306,8.11,Desconocido,Southampton,Senor
+445,446,Si,Primera,"Dodge,  Washington",Hombre,4.0,0,2,33638,81.86,A34,Southampton,Joven
+446,447,Si,Segunda,"Mellinger,  Madeleine Violet",Mujer,13.0,0,1,250644,19.5,Desconocido,Southampton,Joven
+447,448,Si,Primera,"Seward,  Frederic Kimber",Hombre,34.0,0,0,113794,26.55,Desconocido,Southampton,Senor
+448,449,Si,Tercera,"Baclini,  Marie Catherine",Mujer,5.0,2,1,2666,19.26,Desconocido,Cherbourg,Joven
+449,450,Si,Primera,"Peuchen,  Arthur Godfrey",Hombre,52.0,0,0,113786,30.5,C104,Southampton,Militar
+450,451,No,Segunda,"West,  Edwy Arthur",Hombre,36.0,1,2,C.A. 34651,27.75,Desconocido,Southampton,Senor
+451,452,No,Tercera,"Hagland,  Ingvald Olai Olsen",Hombre,29.7,1,0,65303,19.97,Desconocido,Southampton,Senor
+452,453,No,Primera,"Foreman,  Benjamin Laventall",Hombre,30.0,0,0,113051,27.75,C111,Cherbourg,Senor
+453,454,Si,Primera,"Goldenberg,  Samuel L",Hombre,49.0,1,0,17453,89.1,C92,Cherbourg,Senor
+454,455,No,Tercera,"Peduzzi,  Joseph",Hombre,29.7,0,0,A/5 2817,8.05,Desconocido,Southampton,Senor
+455,456,Si,Tercera,"Jalsevac,  Ivan",Hombre,29.0,0,0,349240,7.9,Desconocido,Cherbourg,Senor
+456,457,No,Primera,"Millet,  Francis Davis",Hombre,65.0,0,0,13509,26.55,E38,Southampton,Senor
+457,458,Si,Primera,"Kenyon,  Frederick R (Marion)",Mujer,29.7,1,0,17464,51.86,D21,Southampton,Señora
+458,459,Si,Segunda,"Toomey,  Ellen",Mujer,50.0,0,0,F.C.C. 13531,10.5,Desconocido,Southampton,Señorita
+459,460,No,Tercera,"O'Connor,  Maurice",Hombre,29.7,0,0,371060,7.75,Desconocido,Queenstown,Senor
+460,461,Si,Primera,"Anderson,  Harry",Hombre,48.0,0,0,19952,26.55,E12,Southampton,Senor
+461,462,No,Tercera,"Morley,  William",Hombre,34.0,0,0,364506,8.05,Desconocido,Southampton,Senor
+462,463,No,Primera,"Gee,  Arthur H",Hombre,47.0,0,0,111320,38.5,E63,Southampton,Senor
+463,464,No,Segunda,"Milling,  Jacob Christian",Hombre,48.0,0,0,234360,13.0,Desconocido,Southampton,Senor
+464,465,No,Tercera,"Maisner,  Simon",Hombre,29.7,0,0,A/S 2816,8.05,Desconocido,Southampton,Senor
+465,466,No,Tercera,"Goncalves,  Manuel Estanslas",Hombre,38.0,0,0,SOTON/O.Q. 3101306,7.05,Desconocido,Southampton,Senor
+466,467,No,Segunda,"Campbell,  William",Hombre,29.7,0,0,239853,0.0,Desconocido,Southampton,Senor
+467,468,No,Primera,"Smart,  John Montgomery",Hombre,56.0,0,0,113792,26.55,Desconocido,Southampton,Senor
+468,469,No,Tercera,"Scanlan,  James",Hombre,29.7,0,0,36209,7.72,Desconocido,Queenstown,Senor
+469,470,Si,Tercera,"Baclini,  Helene Barbara",Mujer,0.75,2,1,2666,19.26,Desconocido,Cherbourg,Joven
+470,471,No,Tercera,"Keefe,  Arthur",Hombre,29.7,0,0,323592,7.25,Desconocido,Southampton,Senor
+471,472,No,Tercera,"Cacic,  Luka",Hombre,38.0,0,0,315089,8.66,Desconocido,Southampton,Senor
+472,473,Si,Segunda,"West,  Edwy Arthur (Ada Mary Worth)",Mujer,33.0,1,2,C.A. 34651,27.75,Desconocido,Southampton,Señora
+473,474,Si,Segunda,"Jerwan,  Amin S (Marie Marthe Thuillard)",Mujer,23.0,0,0,SC/AH Basle 541,13.79,D,Cherbourg,Señora
+474,475,No,Tercera,"Strandberg,  Ida Sofia",Mujer,22.0,0,0,7553,9.84,Desconocido,Southampton,Señorita
+475,476,No,Primera,"Clifford,  George Quincy",Hombre,29.7,0,0,110465,52.0,A14,Southampton,Senor
+476,477,No,Segunda,"Renouf,  Peter Henry",Hombre,34.0,1,0,31027,21.0,Desconocido,Southampton,Senor
+477,478,No,Tercera,"Braund,  Lewis Richard",Hombre,29.0,1,0,3460,7.05,Desconocido,Southampton,Senor
+478,479,No,Tercera,"Karlsson,  Nils August",Hombre,22.0,0,0,350060,7.52,Desconocido,Southampton,Senor
+479,480,Si,Tercera,"Hirvonen,  Hildur E",Mujer,2.0,0,1,3101298,12.29,Desconocido,Southampton,Joven
+480,481,No,Tercera,"Goodwin,  Harold Victor",Hombre,9.0,5,2,CA 2144,46.9,Desconocido,Southampton,Joven
+481,482,No,Segunda,"Frost,  Anthony Wood ""Archie""",Hombre,29.7,0,0,239854,0.0,Desconocido,Southampton,Senor
+482,483,No,Tercera,"Rouse,  Richard Henry",Hombre,50.0,0,0,A/5 3594,8.05,Desconocido,Southampton,Senor
+483,484,Si,Tercera,"Turkula,  (Hedwig)",Mujer,63.0,0,0,4134,9.59,Desconocido,Southampton,Señora
+484,485,Si,Primera,"Bishop,  Dickinson H",Hombre,25.0,1,0,11967,91.08,B49,Cherbourg,Senor
+485,486,No,Tercera,"Lefebre,  Jeannie",Mujer,29.7,3,1,4133,25.47,Desconocido,Southampton,Señorita
+486,487,Si,Primera,"Hoyt,  Frederick Maxfield (Jane Anne Forby)",Mujer,35.0,1,0,19943,90.0,C93,Southampton,Señora
+487,488,No,Primera,"Kent,  Edward Austin",Hombre,58.0,0,0,11771,29.7,B37,Cherbourg,Senor
+488,489,No,Tercera,"Somerton,  Francis William",Hombre,30.0,0,0,A.5. 18509,8.05,Desconocido,Southampton,Senor
+489,490,Si,Tercera,"Coutts,  Eden Leslie ""Neville""",Hombre,9.0,1,1,C.A. 37671,15.9,Desconocido,Southampton,Joven
+490,491,No,Tercera,"Hagland,  Konrad Mathias Reiersen",Hombre,29.7,1,0,65304,19.97,Desconocido,Southampton,Senor
+491,492,No,Tercera,"Windelov,  Einar",Hombre,21.0,0,0,SOTON/OQ 3101317,7.25,Desconocido,Southampton,Senor
+492,493,No,Primera,"Molson,  Harry Markland",Hombre,55.0,0,0,113787,30.5,C30,Southampton,Senor
+493,494,No,Primera,"Artagaveytia,  Ramon",Hombre,71.0,0,0,PC 17609,49.5,Desconocido,Cherbourg,Senor
+494,495,No,Tercera,"Stanley,  Edward Roland",Hombre,21.0,0,0,A/4 45380,8.05,Desconocido,Southampton,Senor
+495,496,No,Tercera,"Yousseff,  Gerious",Hombre,29.7,0,0,2627,14.46,Desconocido,Cherbourg,Senor
+496,497,Si,Primera,"Eustis,  Elizabeth Mussey",Mujer,54.0,1,0,36947,78.27,D20,Cherbourg,Señorita
+497,498,No,Tercera,"Shellard,  Frederick William",Hombre,29.7,0,0,C.A. 6212,15.1,Desconocido,Southampton,Senor
+498,499,No,Primera,"Allison,  Hudson J C (Bessie Waldo Daniels)",Mujer,25.0,1,2,113781,151.55,C22 C26,Southampton,Señora
+499,500,No,Tercera,"Svensson,  Olof",Hombre,24.0,0,0,350035,7.8,Desconocido,Southampton,Senor
+500,501,No,Tercera,"Calic,  Petar",Hombre,17.0,0,0,315086,8.66,Desconocido,Southampton,Senor
+501,502,No,Tercera,"Canavan,  Mary",Mujer,21.0,0,0,364846,7.75,Desconocido,Queenstown,Señorita
+502,503,No,Tercera,"O'Sullivan,  Bridget Mary",Mujer,29.7,0,0,330909,7.63,Desconocido,Queenstown,Señorita
+503,504,No,Tercera,"Laitinen,  Kristina Sofia",Mujer,37.0,0,0,4135,9.59,Desconocido,Southampton,Señorita
+504,505,Si,Primera,"Maioni,  Roberta",Mujer,16.0,0,0,110152,86.5,B79,Southampton,Señorita
+505,506,No,Primera,"Penasco y Castellana,  Victor de Satode",Hombre,18.0,1,0,PC 17758,108.9,C65,Cherbourg,Senor
+506,507,Si,Segunda,"Quick,  Frederick Charles (Jane Richards)",Mujer,33.0,0,2,26360,26.0,Desconocido,Southampton,Señora
+507,508,Si,Primera,"Bradley,  George (""George Arthur Brayton"")",Hombre,29.7,0,0,111427,26.55,Desconocido,Southampton,Senor
+508,509,No,Tercera,"Olsen,  Henry Margido",Hombre,28.0,0,0,C 4001,22.52,Desconocido,Southampton,Senor
+509,510,Si,Tercera,"Lang,  Fang",Hombre,26.0,0,0,1601,56.5,Desconocido,Southampton,Senor
+510,511,Si,Tercera,"Daly,  Eugene Patrick",Hombre,29.0,0,0,382651,7.75,Desconocido,Queenstown,Senor
+511,512,No,Tercera,"Webber,  James",Hombre,29.7,0,0,SOTON/OQ 3101316,8.05,Desconocido,Southampton,Senor
+512,513,Si,Primera,"McGough,  James Robert",Hombre,36.0,0,0,PC 17473,26.29,E25,Southampton,Senor
+513,514,Si,Primera,"Rothschild,  Martin (Elizabeth L. Barrett)",Mujer,54.0,1,0,PC 17603,59.4,Desconocido,Cherbourg,Señora
+514,515,No,Tercera,"Coleff,  Satio",Hombre,24.0,0,0,349209,7.5,Desconocido,Southampton,Senor
+515,516,No,Primera,"Walker,  William Anderson",Hombre,47.0,0,0,36967,34.02,D46,Southampton,Senor
+516,517,Si,Segunda,"Lemore,  (Amelia Milley)",Mujer,34.0,0,0,C.A. 34260,10.5,F33,Southampton,Señora
+517,518,No,Tercera,"Ryan,  Patrick",Hombre,29.7,0,0,371110,24.15,Desconocido,Queenstown,Senor
+518,519,Si,Segunda,"Angle,  William A (Florence ""Mary"" Agnes Hughes)",Mujer,36.0,1,0,226875,26.0,Desconocido,Southampton,Señora
+519,520,No,Tercera,"Pavlovic,  Stefo",Hombre,32.0,0,0,349242,7.9,Desconocido,Southampton,Senor
+520,521,Si,Primera,"Perreault,  Anne",Mujer,30.0,0,0,12749,93.5,B73,Southampton,Señorita
+521,522,No,Tercera,"Vovk,  Janko",Hombre,22.0,0,0,349252,7.9,Desconocido,Southampton,Senor
+522,523,No,Tercera,"Lahoud,  Sarkis",Hombre,29.7,0,0,2624,7.22,Desconocido,Cherbourg,Senor
+523,524,Si,Primera,"Hippach,  Louis Albert (Ida Sophia Fischer)",Mujer,44.0,0,1,111361,57.98,B18,Cherbourg,Señora
+524,525,No,Tercera,"Kassem,  Fared",Hombre,29.7,0,0,2700,7.23,Desconocido,Cherbourg,Senor
+525,526,No,Tercera,"Farrell,  James",Hombre,40.5,0,0,367232,7.75,Desconocido,Queenstown,Senor
+526,527,Si,Segunda,"Ridsdale,  Lucy",Mujer,50.0,0,0,W./C. 14258,10.5,Desconocido,Southampton,Señorita
+527,528,No,Primera,"Farthing,  John",Hombre,29.7,0,0,PC 17483,221.78,C95,Southampton,Senor
+528,529,No,Tercera,"Salonen,  Johan Werner",Hombre,39.0,0,0,3101296,7.92,Desconocido,Southampton,Senor
+529,530,No,Segunda,"Hocking,  Richard George",Hombre,23.0,2,1,29104,11.5,Desconocido,Southampton,Senor
+530,531,Si,Segunda,"Quick,  Phyllis May",Mujer,2.0,1,1,26360,26.0,Desconocido,Southampton,Joven
+531,532,No,Tercera,"Toufik,  Nakli",Hombre,29.7,0,0,2641,7.23,Desconocido,Cherbourg,Senor
+532,533,No,Tercera,"Elias,  Joseph Jr",Hombre,17.0,1,1,2690,7.23,Desconocido,Cherbourg,Senor
+533,534,Si,Tercera,"Peter,  Catherine (Catherine Rizk)",Mujer,29.7,0,2,2668,22.36,Desconocido,Cherbourg,Señora
+534,535,No,Tercera,"Cacic,  Marija",Mujer,30.0,0,0,315084,8.66,Desconocido,Southampton,Señorita
+535,536,Si,Segunda,"Hart,  Eva Miriam",Mujer,7.0,0,2,F.C.C. 13529,26.25,Desconocido,Southampton,Joven
+536,537,No,Primera,"Butt,  Archibald Willingham",Hombre,45.0,0,0,113050,26.55,B38,Southampton,Militar
+537,538,Si,Primera,"LeRoy,  Bertha",Mujer,30.0,0,0,PC 17761,106.42,Desconocido,Cherbourg,Señorita
+538,539,No,Tercera,"Risien,  Samuel Beard",Hombre,29.7,0,0,364498,14.5,Desconocido,Southampton,Senor
+539,540,Si,Primera,"Frolicher,  Hedwig Margaritha",Mujer,22.0,0,2,13568,49.5,B39,Cherbourg,Señorita
+540,541,Si,Primera,"Crosby,  Harriet R",Mujer,36.0,0,2,WE/P 5735,71.0,B22,Southampton,Señorita
+541,542,No,Tercera,"Andersson,  Ingeborg Constanzia",Mujer,9.0,4,2,347082,31.28,Desconocido,Southampton,Joven
+542,543,No,Tercera,"Andersson,  Sigrid Elisabeth",Mujer,11.0,4,2,347082,31.28,Desconocido,Southampton,Joven
+543,544,Si,Segunda,"Beane,  Edward",Hombre,32.0,1,0,2908,26.0,Desconocido,Southampton,Senor
+544,545,No,Primera,"Douglas,  Walter Donald",Hombre,50.0,1,0,PC 17761,106.42,C86,Cherbourg,Senor
+545,546,No,Primera,"Nicholson,  Arthur Ernest",Hombre,64.0,0,0,693,26.0,Desconocido,Southampton,Senor
+546,547,Si,Segunda,"Beane,  Edward (Ethel Clarke)",Mujer,19.0,1,0,2908,26.0,Desconocido,Southampton,Señora
+547,548,Si,Segunda,"Padro y Manent,  Julian",Hombre,29.7,0,0,SC/PARIS 2146,13.86,Desconocido,Cherbourg,Senor
+548,549,No,Tercera,"Goldsmith,  Frank John",Hombre,33.0,1,1,363291,20.52,Desconocido,Southampton,Senor
+549,550,Si,Segunda,"Davies,  John Morgan Jr",Hombre,8.0,1,1,C.A. 33112,36.75,Desconocido,Southampton,Joven
+550,551,Si,Primera,"Thayer,  John Borland Jr",Hombre,17.0,0,2,17421,110.88,C70,Cherbourg,Senor
+551,552,No,Segunda,"Sharp,  Percival James R",Hombre,27.0,0,0,244358,26.0,Desconocido,Southampton,Senor
+552,553,No,Tercera,"O'Brien,  Timothy",Hombre,29.7,0,0,330979,7.83,Desconocido,Queenstown,Senor
+553,554,Si,Tercera,"Leeni,  Fahim (""Philip Zenni"")",Hombre,22.0,0,0,2620,7.22,Desconocido,Cherbourg,Senor
+554,555,Si,Tercera,"Ohman,  Velin",Mujer,22.0,0,0,347085,7.78,Desconocido,Southampton,Señorita
+555,556,No,Primera,"Wright,  George",Hombre,62.0,0,0,113807,26.55,Desconocido,Southampton,Senor
+556,557,Si,Primera,"Duff Gordon,  (Lucille Christiana Sutherland) (""Mrs Morgan"")",Mujer,48.0,1,0,11755,39.6,A16,Cherbourg,Realeza
+557,558,No,Primera,"Robbins,  Victor",Hombre,29.7,0,0,PC 17757,227.52,Desconocido,Cherbourg,Senor
+558,559,Si,Primera,"Taussig,  Emil (Tillie Mandelbaum)",Mujer,39.0,1,1,110413,79.65,E67,Southampton,Señora
+559,560,Si,Tercera,"de Messemaeker,  Guillaume Joseph (Emma)",Mujer,36.0,1,0,345572,17.4,Desconocido,Southampton,Señora
+560,561,No,Tercera,"Morrow,  Thomas Rowan",Hombre,29.7,0,0,372622,7.75,Desconocido,Queenstown,Senor
+561,562,No,Tercera,"Sivic,  Husein",Hombre,40.0,0,0,349251,7.9,Desconocido,Southampton,Senor
+562,563,No,Segunda,"Norman,  Robert Douglas",Hombre,28.0,0,0,218629,13.5,Desconocido,Southampton,Senor
+563,564,No,Tercera,"Simmons,  John",Hombre,29.7,0,0,SOTON/OQ 392082,8.05,Desconocido,Southampton,Senor
+564,565,No,Tercera,"Meanwell,  (Marion Ogden)",Mujer,29.7,0,0,SOTON/O.Q. 392087,8.05,Desconocido,Southampton,Señorita
+565,566,No,Tercera,"Davies,  Alfred J",Hombre,24.0,2,0,A/4 48871,24.15,Desconocido,Southampton,Senor
+566,567,No,Tercera,"Stoytcheff,  Ilia",Hombre,19.0,0,0,349205,7.9,Desconocido,Southampton,Senor
+567,568,No,Tercera,"Palsson,  Nils (Alma Cornelia Berglund)",Mujer,29.0,0,4,349909,21.08,Desconocido,Southampton,Señora
+568,569,No,Tercera,"Doharr,  Tannous",Hombre,29.7,0,0,2686,7.23,Desconocido,Cherbourg,Senor
+569,570,Si,Tercera,"Jonsson,  Carl",Hombre,32.0,0,0,350417,7.85,Desconocido,Southampton,Senor
+570,571,Si,Segunda,"Harris,  George",Hombre,62.0,0,0,S.W./PP 752,10.5,Desconocido,Southampton,Senor
+571,572,Si,Primera,"Appleton,  Edward Dale (Charlotte Lamson)",Mujer,53.0,2,0,11769,51.48,C101,Southampton,Señora
+572,573,Si,Primera,"Flynn,  John Irwin (""Irving"")",Hombre,36.0,0,0,PC 17474,26.39,E25,Southampton,Senor
+573,574,Si,Tercera,"Kelly,  Mary",Mujer,29.7,0,0,14312,7.75,Desconocido,Queenstown,Señorita
+574,575,No,Tercera,"Rush,  Alfred George John",Hombre,16.0,0,0,A/4. 20589,8.05,Desconocido,Southampton,Senor
+575,576,No,Tercera,"Patchett,  George",Hombre,19.0,0,0,358585,14.5,Desconocido,Southampton,Senor
+576,577,Si,Segunda,"Garside,  Ethel",Mujer,34.0,0,0,243880,13.0,Desconocido,Southampton,Señorita
+577,578,Si,Primera,"Silvey,  William Baird (Alice Munger)",Mujer,39.0,1,0,13507,55.9,E44,Southampton,Señora
+578,579,No,Tercera,"Caram,  Joseph (Maria Elias)",Mujer,29.7,1,0,2689,14.46,Desconocido,Cherbourg,Señora
+579,580,Si,Tercera,"Jussila,  Eiriik",Hombre,32.0,0,0,STON/O 2. 3101286,7.92,Desconocido,Southampton,Senor
+580,581,Si,Segunda,"Christy,  Julie Rachel",Mujer,25.0,1,1,237789,30.0,Desconocido,Southampton,Señorita
+581,582,Si,Primera,"Thayer,  John Borland (Marian Longstreth Morris)",Mujer,39.0,1,1,17421,110.88,C68,Cherbourg,Señora
+582,583,No,Segunda,"Downton,  William James",Hombre,54.0,0,0,28403,26.0,Desconocido,Southampton,Senor
+583,584,No,Primera,"Ross,  John Hugo",Hombre,36.0,0,0,13049,40.12,A10,Cherbourg,Senor
+584,585,No,Tercera,"Paulner,  Uscher",Hombre,29.7,0,0,3411,8.71,Desconocido,Cherbourg,Senor
+585,586,Si,Primera,"Taussig,  Ruth",Mujer,18.0,0,2,110413,79.65,E68,Southampton,Señorita
+586,587,No,Segunda,"Jarvis,  John Denzil",Hombre,47.0,0,0,237565,15.0,Desconocido,Southampton,Senor
+587,588,Si,Primera,"Frolicher-Stehli,  Maxmillian",Hombre,60.0,1,1,13567,79.2,B41,Cherbourg,Senor
+588,589,No,Tercera,"Gilinski,  Eliezer",Hombre,22.0,0,0,14973,8.05,Desconocido,Southampton,Senor
+589,590,No,Tercera,"Murdlin,  Joseph",Hombre,29.7,0,0,A./5. 3235,8.05,Desconocido,Southampton,Senor
+590,591,No,Tercera,"Rintamaki,  Matti",Hombre,35.0,0,0,STON/O 2. 3101273,7.12,Desconocido,Southampton,Senor
+591,592,Si,Primera,"Stephenson,  Walter Bertram (Martha Eustis)",Mujer,52.0,1,0,36947,78.27,D20,Cherbourg,Señora
+592,593,No,Tercera,"Elsbury,  William James",Hombre,47.0,0,0,A/5 3902,7.25,Desconocido,Southampton,Senor
+593,594,No,Tercera,"Bourke,  Mary",Mujer,29.7,0,2,364848,7.75,Desconocido,Queenstown,Señorita
+594,595,No,Segunda,"Chapman,  John Henry",Hombre,37.0,1,0,SC/AH 29037,26.0,Desconocido,Southampton,Senor
+595,596,No,Tercera,"Van Impe,  Jean Baptiste",Hombre,36.0,1,1,345773,24.15,Desconocido,Southampton,Senor
+596,597,Si,Segunda,"Leitch,  Jessie Wills",Mujer,29.7,0,0,248727,33.0,Desconocido,Southampton,Señorita
+597,598,No,Tercera,"Johnson,  Alfred",Hombre,49.0,0,0,LINE,0.0,Desconocido,Southampton,Senor
+598,599,No,Tercera,"Boulos,  Hanna",Hombre,29.7,0,0,2664,7.22,Desconocido,Cherbourg,Senor
+599,600,Si,Primera,"Duff Gordon,  Cosmo Edmund (""Mr Morgan"")",Hombre,49.0,1,0,PC 17485,56.93,A20,Cherbourg,Realeza
+600,601,Si,Segunda,"Jacobsohn,  Sidney Samuel (Amy Frances Christy)",Mujer,24.0,2,1,243847,27.0,Desconocido,Southampton,Señora
+601,602,No,Tercera,"Slabenoff,  Petco",Hombre,29.7,0,0,349214,7.9,Desconocido,Southampton,Senor
+602,603,No,Primera,"Harrington,  Charles H",Hombre,29.7,0,0,113796,42.4,Desconocido,Southampton,Senor
+603,604,No,Tercera,"Torber,  Ernst William",Hombre,44.0,0,0,364511,8.05,Desconocido,Southampton,Senor
+604,605,Si,Primera,"Homer,  Harry (""Mr E Haven"")",Hombre,35.0,0,0,111426,26.55,Desconocido,Cherbourg,Senor
+605,606,No,Tercera,"Lindell,  Edvard Bengtsson",Hombre,36.0,1,0,349910,15.55,Desconocido,Southampton,Senor
+606,607,No,Tercera,"Karaic,  Milan",Hombre,30.0,0,0,349246,7.9,Desconocido,Southampton,Senor
+607,608,Si,Primera,"Daniel,  Robert Williams",Hombre,27.0,0,0,113804,30.5,Desconocido,Southampton,Senor
+608,609,Si,Segunda,"Laroche,  Joseph (Juliette Marie Louise Lafargue)",Mujer,22.0,1,2,SC/Paris 2123,41.58,Desconocido,Cherbourg,Señora
+609,610,Si,Primera,"Shutes,  Elizabeth W",Mujer,40.0,0,0,PC 17582,153.46,C125,Southampton,Señorita
+610,611,No,Tercera,"Andersson,  Anders Johan (Alfrida Konstantia Brogren)",Mujer,39.0,1,5,347082,31.28,Desconocido,Southampton,Señora
+611,612,No,Tercera,"Jardin,  Jose Neto",Hombre,29.7,0,0,SOTON/O.Q. 3101305,7.05,Desconocido,Southampton,Senor
+612,613,Si,Tercera,"Murphy,  Margaret Jane",Mujer,29.7,1,0,367230,15.5,Desconocido,Queenstown,Señorita
+613,614,No,Tercera,"Horgan,  John",Hombre,29.7,0,0,370377,7.75,Desconocido,Queenstown,Senor
+614,615,No,Tercera,"Brocklebank,  William Alfred",Hombre,35.0,0,0,364512,8.05,Desconocido,Southampton,Senor
+615,616,Si,Segunda,"Herman,  Alice",Mujer,24.0,1,2,220845,65.0,Desconocido,Southampton,Señorita
+616,617,No,Tercera,"Danbom,  Ernst Gilbert",Hombre,34.0,1,1,347080,14.4,Desconocido,Southampton,Senor
+617,618,No,Tercera,"Lobb,  William Arthur (Cordelia K Stanlick)",Mujer,26.0,1,0,A/5. 3336,16.1,Desconocido,Southampton,Señora
+618,619,Si,Segunda,"Becker,  Marion Louise",Mujer,4.0,2,1,230136,39.0,F4,Southampton,Joven
+619,620,No,Segunda,"Gavey,  Lawrence",Hombre,26.0,0,0,31028,10.5,Desconocido,Southampton,Senor
+620,621,No,Tercera,"Yasbeck,  Antoni",Hombre,27.0,1,0,2659,14.45,Desconocido,Cherbourg,Senor
+621,622,Si,Primera,"Kimball,  Edwin Nelson Jr",Hombre,42.0,1,0,11753,52.55,D19,Southampton,Senor
+622,623,Si,Tercera,"Nakid,  Sahid",Hombre,20.0,1,1,2653,15.74,Desconocido,Cherbourg,Senor
+623,624,No,Tercera,"Hansen,  Henry Damsgaard",Hombre,21.0,0,0,350029,7.85,Desconocido,Southampton,Senor
+624,625,No,Tercera,"Bowen,  David John ""Dai""",Hombre,21.0,0,0,54636,16.1,Desconocido,Southampton,Senor
+625,626,No,Primera,"Sutton,  Frederick",Hombre,61.0,0,0,36963,32.32,D50,Southampton,Senor
+626,627,No,Segunda,"Kirkland,  Charles Leonard",Hombre,57.0,0,0,219533,12.35,Desconocido,Queenstown,Sacerdote
+627,628,Si,Primera,"Longley,  Gretchen Fiske",Mujer,21.0,0,0,13502,77.96,D9,Southampton,Señorita
+628,629,No,Tercera,"Bostandyeff,  Guentcho",Hombre,26.0,0,0,349224,7.9,Desconocido,Southampton,Senor
+629,630,No,Tercera,"O'Connell,  Patrick D",Hombre,29.7,0,0,334912,7.73,Desconocido,Queenstown,Senor
+630,631,Si,Primera,"Barkworth,  Algernon Henry Wilson",Hombre,80.0,0,0,27042,30.0,A23,Southampton,Senor
+631,632,No,Tercera,"Lundahl,  Johan Svensson",Hombre,51.0,0,0,347743,7.05,Desconocido,Southampton,Senor
+632,633,Si,Primera,"Stahelin-Maeglin,  Max",Hombre,32.0,0,0,13214,30.5,B50,Cherbourg,Doctor
+633,634,No,Primera,"Parr,  William Henry Marsh",Hombre,29.7,0,0,112052,0.0,Desconocido,Southampton,Senor
+634,635,No,Tercera,"Skoog,  Mabel",Mujer,9.0,3,2,347088,27.9,Desconocido,Southampton,Joven
+635,636,Si,Segunda,"Davis,  Mary",Mujer,28.0,0,0,237668,13.0,Desconocido,Southampton,Señorita
+636,637,No,Tercera,"Leinonen,  Antti Gustaf",Hombre,32.0,0,0,STON/O 2. 3101292,7.92,Desconocido,Southampton,Senor
+637,638,No,Segunda,"Collyer,  Harvey",Hombre,31.0,1,1,C.A. 31921,26.25,Desconocido,Southampton,Senor
+638,639,No,Tercera,"Panula,  Juha (Maria Emilia Ojala)",Mujer,41.0,0,5,3101295,39.69,Desconocido,Southampton,Señora
+639,640,No,Tercera,"Thorneycroft,  Percival",Hombre,29.7,1,0,376564,16.1,Desconocido,Southampton,Senor
+640,641,No,Tercera,"Jensen,  Hans Peder",Hombre,20.0,0,0,350050,7.85,Desconocido,Southampton,Senor
+641,642,Si,Primera,"Sagesser,  Emma",Mujer,24.0,0,0,PC 17477,69.3,B35,Cherbourg,Señorita
+642,643,No,Tercera,"Skoog,  Margit Elizabeth",Mujer,2.0,3,2,347088,27.9,Desconocido,Southampton,Joven
+643,644,Si,Tercera,"Foo,  Choong",Hombre,29.7,0,0,1601,56.5,Desconocido,Southampton,Senor
+644,645,Si,Tercera,"Baclini,  Eugenie",Mujer,0.75,2,1,2666,19.26,Desconocido,Cherbourg,Joven
+645,646,Si,Primera,"Harper,  Henry Sleeper",Hombre,48.0,1,0,PC 17572,76.73,D33,Cherbourg,Senor
+646,647,No,Tercera,"Cor,  Liudevit",Hombre,19.0,0,0,349231,7.9,Desconocido,Southampton,Senor
+647,648,Si,Primera,"Simonius-Blumer,  Oberst Alfons",Hombre,56.0,0,0,13213,35.5,A26,Cherbourg,Militar
+648,649,No,Tercera,"Willey,  Edward",Hombre,29.7,0,0,S.O./P.P. 751,7.55,Desconocido,Southampton,Senor
+649,650,Si,Tercera,"Stanley,  Amy Zillah Elsie",Mujer,23.0,0,0,CA. 2314,7.55,Desconocido,Southampton,Señorita
+650,651,No,Tercera,"Mitkoff,  Mito",Hombre,29.7,0,0,349221,7.9,Desconocido,Southampton,Senor
+651,652,Si,Segunda,"Doling,  Elsie",Mujer,18.0,0,1,231919,23.0,Desconocido,Southampton,Señorita
+652,653,No,Tercera,"Kalvik,  Johannes Halvorsen",Hombre,21.0,0,0,8475,8.43,Desconocido,Southampton,Senor
+653,654,Si,Tercera,"O'Leary,  Hanora ""Norah""",Mujer,29.7,0,0,330919,7.83,Desconocido,Queenstown,Señorita
+654,655,No,Tercera,"Hegarty,  Hanora ""Nora""",Mujer,18.0,0,0,365226,6.75,Desconocido,Queenstown,Señorita
+655,656,No,Segunda,"Hickman,  Leonard Mark",Hombre,24.0,2,0,S.O.C. 14879,73.5,Desconocido,Southampton,Senor
+656,657,No,Tercera,"Radeff,  Alexander",Hombre,29.7,0,0,349223,7.9,Desconocido,Southampton,Senor
+657,658,No,Tercera,"Bourke,  John (Catherine)",Mujer,32.0,1,1,364849,15.5,Desconocido,Queenstown,Señora
+658,659,No,Segunda,"Eitemiller,  George Floyd",Hombre,23.0,0,0,29751,13.0,Desconocido,Southampton,Senor
+659,660,No,Primera,"Newell,  Arthur Webster",Hombre,58.0,0,2,35273,113.28,D48,Cherbourg,Senor
+660,661,Si,Primera,"Frauenthal,  Henry William",Hombre,50.0,2,0,PC 17611,133.65,Desconocido,Southampton,Doctor
+661,662,No,Tercera,"Badt,  Mohamed",Hombre,40.0,0,0,2623,7.22,Desconocido,Cherbourg,Senor
+662,663,No,Primera,"Colley,  Edward Pomeroy",Hombre,47.0,0,0,5727,25.59,E58,Southampton,Senor
+663,664,No,Tercera,"Coleff,  Peju",Hombre,36.0,0,0,349210,7.5,Desconocido,Southampton,Senor
+664,665,Si,Tercera,"Lindqvist,  Eino William",Hombre,20.0,1,0,STON/O 2. 3101285,7.92,Desconocido,Southampton,Senor
+665,666,No,Segunda,"Hickman,  Lewis",Hombre,32.0,2,0,S.O.C. 14879,73.5,Desconocido,Southampton,Senor
+666,667,No,Segunda,"Butler,  Reginald Fenton",Hombre,25.0,0,0,234686,13.0,Desconocido,Southampton,Senor
+667,668,No,Tercera,"Rommetvedt,  Knud Paust",Hombre,29.7,0,0,312993,7.78,Desconocido,Southampton,Senor
+668,669,No,Tercera,"Cook,  Jacob",Hombre,43.0,0,0,A/5 3536,8.05,Desconocido,Southampton,Senor
+669,670,Si,Primera,"Taylor,  Elmer Zebley (Juliet Cummins Wright)",Mujer,29.7,1,0,19996,52.0,C126,Southampton,Señora
+670,671,Si,Segunda,"Brown,  Thomas William Solomon (Elizabeth Catherine Ford)",Mujer,40.0,1,1,29750,39.0,Desconocido,Southampton,Señora
+671,672,No,Primera,"Davidson,  Thornton",Hombre,31.0,1,0,F.C. 12750,52.0,B71,Southampton,Senor
+672,673,No,Segunda,"Mitchell,  Henry Michael",Hombre,70.0,0,0,C.A. 24580,10.5,Desconocido,Southampton,Senor
+673,674,Si,Segunda,"Wilhelms,  Charles",Hombre,31.0,0,0,244270,13.0,Desconocido,Southampton,Senor
+674,675,No,Segunda,"Watson,  Ennis Hastings",Hombre,29.7,0,0,239856,0.0,Desconocido,Southampton,Senor
+675,676,No,Tercera,"Edvardsson,  Gustaf Hjalmar",Hombre,18.0,0,0,349912,7.78,Desconocido,Southampton,Senor
+676,677,No,Tercera,"Sawyer,  Frederick Charles",Hombre,24.5,0,0,342826,8.05,Desconocido,Southampton,Senor
+677,678,Si,Tercera,"Turja,  Anna Sofia",Mujer,18.0,0,0,4138,9.84,Desconocido,Southampton,Señorita
+678,679,No,Tercera,"Goodwin,  Frederick (Augusta Tyler)",Mujer,43.0,1,6,CA 2144,46.9,Desconocido,Southampton,Señora
+679,680,Si,Primera,"Cardeza,  Thomas Drake Martinez",Hombre,36.0,0,1,PC 17755,512.33,B51 B53 B55,Cherbourg,Senor
+680,681,No,Tercera,"Peters,  Katie",Mujer,29.7,0,0,330935,8.14,Desconocido,Queenstown,Señorita
+681,682,Si,Primera,"Hassab,  Hammad",Hombre,27.0,0,0,PC 17572,76.73,D49,Cherbourg,Senor
+682,683,No,Tercera,"Olsvigen,  Thor Anderson",Hombre,20.0,0,0,6563,9.22,Desconocido,Southampton,Senor
+683,684,No,Tercera,"Goodwin,  Charles Edward",Hombre,14.0,5,2,CA 2144,46.9,Desconocido,Southampton,Joven
+684,685,No,Segunda,"Brown,  Thomas William Solomon",Hombre,60.0,1,1,29750,39.0,Desconocido,Southampton,Senor
+685,686,No,Segunda,"Laroche,  Joseph Philippe Lemercier",Hombre,25.0,1,2,SC/Paris 2123,41.58,Desconocido,Cherbourg,Senor
+686,687,No,Tercera,"Panula,  Jaako Arnold",Hombre,14.0,4,1,3101295,39.69,Desconocido,Southampton,Joven
+687,688,No,Tercera,"Dakic,  Branko",Hombre,19.0,0,0,349228,10.17,Desconocido,Southampton,Senor
+688,689,No,Tercera,"Fischer,  Eberhard Thelander",Hombre,18.0,0,0,350036,7.8,Desconocido,Southampton,Senor
+689,690,Si,Primera,"Madill,  Georgette Alexandra",Mujer,15.0,0,1,24160,211.34,B5,Southampton,Joven
+690,691,Si,Primera,"Dick,  Albert Adrian",Hombre,31.0,1,0,17474,57.0,B20,Southampton,Senor
+691,692,Si,Tercera,"Karun,  Manca",Mujer,4.0,0,1,349256,13.42,Desconocido,Cherbourg,Joven
+692,693,Si,Tercera,"Lam,  Ali",Hombre,29.7,0,0,1601,56.5,Desconocido,Southampton,Senor
+693,694,No,Tercera,"Saad,  Khalil",Hombre,25.0,0,0,2672,7.22,Desconocido,Cherbourg,Senor
+694,695,No,Primera,"Weir,  John",Hombre,60.0,0,0,113800,26.55,Desconocido,Southampton,Militar
+695,696,No,Segunda,"Chapman,  Charles Henry",Hombre,52.0,0,0,248731,13.5,Desconocido,Southampton,Senor
+696,697,No,Tercera,"Kelly,  James",Hombre,44.0,0,0,363592,8.05,Desconocido,Southampton,Senor
+697,698,Si,Tercera,"Mullens,  Katherine ""Katie""",Mujer,29.7,0,0,35852,7.73,Desconocido,Queenstown,Señorita
+698,699,No,Primera,"Thayer,  John Borland",Hombre,49.0,1,1,17421,110.88,C68,Cherbourg,Senor
+699,700,No,Tercera,"Humblen,  Adolf Mathias Nicolai Olsen",Hombre,42.0,0,0,348121,7.65,F G63,Southampton,Senor
+700,701,Si,Primera,"Astor,  John Jacob (Madeleine Talmadge Force)",Mujer,18.0,1,0,PC 17757,227.52,C62 C64,Cherbourg,Señora
+701,702,Si,Primera,"Silverthorne,  Spencer Victor",Hombre,35.0,0,0,PC 17475,26.29,E24,Southampton,Senor
+702,703,No,Tercera,"Barbara,  Saiide",Mujer,18.0,0,1,2691,14.45,Desconocido,Cherbourg,Señorita
+703,704,No,Tercera,"Gallagher,  Martin",Hombre,25.0,0,0,36864,7.74,Desconocido,Queenstown,Senor
+704,705,No,Tercera,"Hansen,  Henrik Juul",Hombre,26.0,1,0,350025,7.85,Desconocido,Southampton,Senor
+705,706,No,Segunda,"Morley,  Henry Samuel (""Mr Henry Marshall"")",Hombre,39.0,0,0,250655,26.0,Desconocido,Southampton,Senor
+706,707,Si,Segunda,"Kelly,  Florence ""Fannie""",Mujer,45.0,0,0,223596,13.5,Desconocido,Southampton,Señora
+707,708,Si,Primera,"Calderhead,  Edward Pennington",Hombre,42.0,0,0,PC 17476,26.29,E24,Southampton,Senor
+708,709,Si,Primera,"Cleaver,  Alice",Mujer,22.0,0,0,113781,151.55,Desconocido,Southampton,Señorita
+709,710,Si,Tercera,"Moubarek,  Halim Gonios (""William George"")",Hombre,29.7,1,1,2661,15.25,Desconocido,Cherbourg,Senor
+710,711,Si,Primera,"Mayne,  Berthe Antonine (""Mrs de Villiers"")",Mujer,24.0,0,0,PC 17482,49.5,C90,Cherbourg,Señorita
+711,712,No,Primera,"Klaber,  Herman",Hombre,29.7,0,0,113028,26.55,C124,Southampton,Senor
+712,713,Si,Primera,"Taylor,  Elmer Zebley",Hombre,48.0,1,0,19996,52.0,C126,Southampton,Senor
+713,714,No,Tercera,"Larsson,  August Viktor",Hombre,29.0,0,0,7545,9.48,Desconocido,Southampton,Senor
+714,715,No,Segunda,"Greenberg,  Samuel",Hombre,52.0,0,0,250647,13.0,Desconocido,Southampton,Senor
+715,716,No,Tercera,"Soholt,  Peter Andreas Lauritz Andersen",Hombre,19.0,0,0,348124,7.65,F G73,Southampton,Senor
+716,717,Si,Primera,"Endres,  Caroline Louise",Mujer,38.0,0,0,PC 17757,227.52,C45,Cherbourg,Señorita
+717,718,Si,Segunda,"Troutt,  Edwina Celia ""Winnie""",Mujer,27.0,0,0,34218,10.5,E101,Southampton,Señorita
+718,719,No,Tercera,"McEvoy,  Michael",Hombre,29.7,0,0,36568,15.5,Desconocido,Queenstown,Senor
+719,720,No,Tercera,"Johnson,  Malkolm Joackim",Hombre,33.0,0,0,347062,7.78,Desconocido,Southampton,Senor
+720,721,Si,Segunda,"Harper,  Annie Jessie ""Nina""",Mujer,6.0,0,1,248727,33.0,Desconocido,Southampton,Joven
+721,722,No,Tercera,"Jensen,  Svend Lauritz",Hombre,17.0,1,0,350048,7.05,Desconocido,Southampton,Senor
+722,723,No,Segunda,"Gillespie,  William Henry",Hombre,34.0,0,0,12233,13.0,Desconocido,Southampton,Senor
+723,724,No,Segunda,"Hodges,  Henry Price",Hombre,50.0,0,0,250643,13.0,Desconocido,Southampton,Senor
+724,725,Si,Primera,"Chambers,  Norman Campbell",Hombre,27.0,1,0,113806,53.1,E8,Southampton,Senor
+725,726,No,Tercera,"Oreskovic,  Luka",Hombre,20.0,0,0,315094,8.66,Desconocido,Southampton,Senor
+726,727,Si,Segunda,"Renouf,  Peter Henry (Lillian Jefferys)",Mujer,30.0,3,0,31027,21.0,Desconocido,Southampton,Señora
+727,728,Si,Tercera,"Mannion,  Margareth",Mujer,29.7,0,0,36866,7.74,Desconocido,Queenstown,Señorita
+728,729,No,Segunda,"Bryhl,  Kurt Arnold Gottfrid",Hombre,25.0,1,0,236853,26.0,Desconocido,Southampton,Senor
+729,730,No,Tercera,"Ilmakangas,  Pieta Sofia",Mujer,25.0,1,0,STON/O2. 3101271,7.92,Desconocido,Southampton,Señorita
+730,731,Si,Primera,"Allen,  Elisabeth Walton",Mujer,29.0,0,0,24160,211.34,B5,Southampton,Señorita
+731,732,No,Tercera,"Hassan,  Houssein G N",Hombre,11.0,0,0,2699,18.79,Desconocido,Cherbourg,Joven
+732,733,No,Segunda,"Knight,  Robert J",Hombre,29.7,0,0,239855,0.0,Desconocido,Southampton,Senor
+733,734,No,Segunda,"Berriman,  William John",Hombre,23.0,0,0,28425,13.0,Desconocido,Southampton,Senor
+734,735,No,Segunda,"Troupiansky,  Moses Aaron",Hombre,23.0,0,0,233639,13.0,Desconocido,Southampton,Senor
+735,736,No,Tercera,"Williams,  Leslie",Hombre,28.5,0,0,54636,16.1,Desconocido,Southampton,Senor
+736,737,No,Tercera,"Ford,  Edward (Margaret Ann Watson)",Mujer,48.0,1,3,W./C. 6608,34.38,Desconocido,Southampton,Señora
+737,738,Si,Primera,"Lesurer,  Gustave J",Hombre,35.0,0,0,PC 17755,512.33,B101,Cherbourg,Senor
+738,739,No,Tercera,"Ivanoff,  Kanio",Hombre,29.7,0,0,349201,7.9,Desconocido,Southampton,Senor
+739,740,No,Tercera,"Nankoff,  Minko",Hombre,29.7,0,0,349218,7.9,Desconocido,Southampton,Senor
+740,741,Si,Primera,"Hawksford,  Walter James",Hombre,29.7,0,0,16988,30.0,D45,Southampton,Senor
+741,742,No,Primera,"Cavendish,  Tyrell William",Hombre,36.0,1,0,19877,78.85,C46,Southampton,Senor
+742,743,Si,Primera,"Ryerson,  Susan Parker ""Suzette""",Mujer,21.0,2,2,PC 17608,262.38,B57 B59 B63 B66,Cherbourg,Señorita
+743,744,No,Tercera,"McNamee,  Neal",Hombre,24.0,1,0,376566,16.1,Desconocido,Southampton,Senor
+744,745,Si,Tercera,"Stranden,  Juho",Hombre,31.0,0,0,STON/O 2. 3101288,7.92,Desconocido,Southampton,Senor
+745,746,No,Primera,"Crosby,  Edward Gifford",Hombre,70.0,1,1,WE/P 5735,71.0,B22,Southampton,Militar
+746,747,No,Tercera,"Abbott,  Rossmore Edward",Hombre,16.0,1,1,C.A. 2673,20.25,Desconocido,Southampton,Senor
+747,748,Si,Segunda,"Sinkkonen,  Anna",Mujer,30.0,0,0,250648,13.0,Desconocido,Southampton,Señorita
+748,749,No,Primera,"Marvin,  Daniel Warner",Hombre,19.0,1,0,113773,53.1,D30,Southampton,Senor
+749,750,No,Tercera,"Connaghton,  Michael",Hombre,31.0,0,0,335097,7.75,Desconocido,Queenstown,Senor
+750,751,Si,Segunda,"Wells,  Joan",Mujer,4.0,1,1,29103,23.0,Desconocido,Southampton,Joven
+751,752,Si,Tercera,"Moor,  Meier",Hombre,6.0,0,1,392096,12.48,E121,Southampton,Joven
+752,753,No,Tercera,"Vande Velde,  Johannes Joseph",Hombre,33.0,0,0,345780,9.5,Desconocido,Southampton,Senor
+753,754,No,Tercera,"Jonkoff,  Lalio",Hombre,23.0,0,0,349204,7.9,Desconocido,Southampton,Senor
+754,755,Si,Segunda,"Herman,  Samuel (Jane Laver)",Mujer,48.0,1,2,220845,65.0,Desconocido,Southampton,Señora
+755,756,Si,Segunda,"Hamalainen,  Viljo",Hombre,0.67,1,1,250649,14.5,Desconocido,Southampton,Joven
+756,757,No,Tercera,"Carlsson,  August Sigfrid",Hombre,28.0,0,0,350042,7.8,Desconocido,Southampton,Senor
+757,758,No,Segunda,"Bailey,  Percy Andrew",Hombre,18.0,0,0,29108,11.5,Desconocido,Southampton,Senor
+758,759,No,Tercera,"Theobald,  Thomas Leonard",Hombre,34.0,0,0,363294,8.05,Desconocido,Southampton,Senor
+759,760,Si,Primera,"Rothes, the  of (Lucy Noel Martha Dyer-Edwards)",Mujer,33.0,0,0,110152,86.5,B77,Southampton,Realeza
+760,761,No,Tercera,"Garfirth,  John",Hombre,29.7,0,0,358585,14.5,Desconocido,Southampton,Senor
+761,762,No,Tercera,"Nirva,  Iisakki Antino Aijo",Hombre,41.0,0,0,SOTON/O2 3101272,7.12,Desconocido,Southampton,Senor
+762,763,Si,Tercera,"Barah,  Hanna Assi",Hombre,20.0,0,0,2663,7.23,Desconocido,Cherbourg,Senor
+763,764,Si,Primera,"Carter,  William Ernest (Lucile Polk)",Mujer,36.0,1,2,113760,120.0,B96 B98,Southampton,Señora
+764,765,No,Tercera,"Eklund,  Hans Linus",Hombre,16.0,0,0,347074,7.78,Desconocido,Southampton,Senor
+765,766,Si,Primera,"Hogeboom,  John C (Anna Andrews)",Mujer,51.0,1,0,13502,77.96,D11,Southampton,Señora
+766,767,No,Primera,"Brewe,  Arthur Jackson",Hombre,29.7,0,0,112379,39.6,Desconocido,Cherbourg,Doctor
+767,768,No,Tercera,"Mangan,  Mary",Mujer,30.5,0,0,364850,7.75,Desconocido,Queenstown,Señorita
+768,769,No,Tercera,"Moran,  Daniel J",Hombre,29.7,1,0,371110,24.15,Desconocido,Queenstown,Senor
+769,770,No,Tercera,"Gronnestad,  Daniel Danielsen",Hombre,32.0,0,0,8471,8.36,Desconocido,Southampton,Senor
+770,771,No,Tercera,"Lievens,  Rene Aime",Hombre,24.0,0,0,345781,9.5,Desconocido,Southampton,Senor
+771,772,No,Tercera,"Jensen,  Niels Peder",Hombre,48.0,0,0,350047,7.85,Desconocido,Southampton,Senor
+772,773,No,Segunda,"Mack,  (Mary)",Mujer,57.0,0,0,S.O./P.P. 3,10.5,E77,Southampton,Señora
+773,774,No,Tercera,"Elias,  Dibo",Hombre,29.7,0,0,2674,7.22,Desconocido,Cherbourg,Senor
+774,775,Si,Segunda,"Hocking,  Elizabeth (Eliza Needs)",Mujer,54.0,1,3,29105,23.0,Desconocido,Southampton,Señora
+775,776,No,Tercera,"Myhrman,  Pehr Fabian Oliver Malkolm",Hombre,18.0,0,0,347078,7.75,Desconocido,Southampton,Senor
+776,777,No,Tercera,"Tobin,  Roger",Hombre,29.7,0,0,383121,7.75,F38,Queenstown,Senor
+777,778,Si,Tercera,"Emanuel,  Virginia Ethel",Mujer,5.0,0,0,364516,12.48,Desconocido,Southampton,Joven
+778,779,No,Tercera,"Kilgannon,  Thomas J",Hombre,29.7,0,0,36865,7.74,Desconocido,Queenstown,Senor
+779,780,Si,Primera,"Robert,  Edward Scott (Elisabeth Walton McMillan)",Mujer,43.0,0,1,24160,211.34,B3,Southampton,Señora
+780,781,Si,Tercera,"Ayoub,  Banoura",Mujer,13.0,0,0,2687,7.23,Desconocido,Cherbourg,Joven
+781,782,Si,Primera,"Dick,  Albert Adrian (Vera Gillespie)",Mujer,17.0,1,0,17474,57.0,B20,Southampton,Señora
+782,783,No,Primera,"Long,  Milton Clyde",Hombre,29.0,0,0,113501,30.0,D6,Southampton,Senor
+783,784,No,Tercera,"Johnston,  Andrew G",Hombre,29.7,1,2,W./C. 6607,23.45,Desconocido,Southampton,Senor
+784,785,No,Tercera,"Ali,  William",Hombre,25.0,0,0,SOTON/O.Q. 3101312,7.05,Desconocido,Southampton,Senor
+785,786,No,Tercera,"Harmer,  Abraham (David Lishin)",Hombre,25.0,0,0,374887,7.25,Desconocido,Southampton,Senor
+786,787,Si,Tercera,"Sjoblom,  Anna Sofia",Mujer,18.0,0,0,3101265,7.5,Desconocido,Southampton,Señorita
+787,788,No,Tercera,"Rice,  George Hugh",Hombre,8.0,4,1,382652,29.12,Desconocido,Queenstown,Joven
+788,789,Si,Tercera,"Dean,  Bertram Vere",Hombre,1.0,1,2,C.A. 2315,20.58,Desconocido,Southampton,Joven
+789,790,No,Primera,"Guggenheim,  Benjamin",Hombre,46.0,0,0,PC 17593,79.2,B82 B84,Cherbourg,Senor
+790,791,No,Tercera,"Keane,  Andrew ""Andy""",Hombre,29.7,0,0,12460,7.75,Desconocido,Queenstown,Senor
+791,792,No,Segunda,"Gaskell,  Alfred",Hombre,16.0,0,0,239865,26.0,Desconocido,Southampton,Senor
+792,793,No,Tercera,"Sage,  Stella Anna",Mujer,29.7,8,2,CA. 2343,69.55,Desconocido,Southampton,Señorita
+793,794,No,Primera,"Hoyt,  William Fisher",Hombre,29.7,0,0,PC 17600,30.7,Desconocido,Cherbourg,Senor
+794,795,No,Tercera,"Dantcheff,  Ristiu",Hombre,25.0,0,0,349203,7.9,Desconocido,Southampton,Senor
+795,796,No,Segunda,"Otter,  Richard",Hombre,39.0,0,0,28213,13.0,Desconocido,Southampton,Senor
+796,797,Si,Primera,"Leader,  Alice (Farnham)",Mujer,49.0,0,0,17465,25.93,D17,Southampton,Doctor
+797,798,Si,Tercera,"Osman,  Mara",Mujer,31.0,0,0,349244,8.68,Desconocido,Southampton,Señora
+798,799,No,Tercera,"Ibrahim Shawah,  Yousseff",Hombre,30.0,0,0,2685,7.23,Desconocido,Cherbourg,Senor
+799,800,No,Tercera,"Van Impe,  Jean Baptiste (Rosalie Paula Govaert)",Mujer,30.0,1,1,345773,24.15,Desconocido,Southampton,Señora
+800,801,No,Segunda,"Ponesell,  Martin",Hombre,34.0,0,0,250647,13.0,Desconocido,Southampton,Senor
+801,802,Si,Segunda,"Collyer,  Harvey (Charlotte Annie Tate)",Mujer,31.0,1,1,C.A. 31921,26.25,Desconocido,Southampton,Señora
+802,803,Si,Primera,"Carter,  William Thornton II",Hombre,11.0,1,2,113760,120.0,B96 B98,Southampton,Joven
+803,804,Si,Tercera,"Thomas,  Assad Alexander",Hombre,0.42,0,1,2625,8.52,Desconocido,Cherbourg,Joven
+804,805,Si,Tercera,"Hedman,  Oskar Arvid",Hombre,27.0,0,0,347089,6.98,Desconocido,Southampton,Senor
+805,806,No,Tercera,"Johansson,  Karl Johan",Hombre,31.0,0,0,347063,7.78,Desconocido,Southampton,Senor
+806,807,No,Primera,"Andrews,  Thomas Jr",Hombre,39.0,0,0,112050,0.0,A36,Southampton,Senor
+807,808,No,Tercera,"Pettersson,  Ellen Natalia",Mujer,18.0,0,0,347087,7.78,Desconocido,Southampton,Señorita
+808,809,No,Segunda,"Meyer,  August",Hombre,39.0,0,0,248723,13.0,Desconocido,Southampton,Senor
+809,810,Si,Primera,"Chambers,  Norman Campbell (Bertha Griggs)",Mujer,33.0,1,0,113806,53.1,E8,Southampton,Señora
+810,811,No,Tercera,"Alexander,  William",Hombre,26.0,0,0,3474,7.89,Desconocido,Southampton,Senor
+811,812,No,Tercera,"Lester,  James",Hombre,39.0,0,0,A/4 48871,24.15,Desconocido,Southampton,Senor
+812,813,No,Segunda,"Slemen,  Richard James",Hombre,35.0,0,0,28206,10.5,Desconocido,Southampton,Senor
+813,814,No,Tercera,"Andersson,  Ebba Iris Alfrida",Mujer,6.0,4,2,347082,31.28,Desconocido,Southampton,Joven
+814,815,No,Tercera,"Tomlin,  Ernest Portage",Hombre,30.5,0,0,364499,8.05,Desconocido,Southampton,Senor
+815,816,No,Primera,"Fry,  Richard",Hombre,29.7,0,0,112058,0.0,B102,Southampton,Senor
+816,817,No,Tercera,"Heininen,  Wendla Maria",Mujer,23.0,0,0,STON/O2. 3101290,7.92,Desconocido,Southampton,Señorita
+817,818,No,Segunda,"Mallet,  Albert",Hombre,31.0,1,1,S.C./PARIS 2079,37.0,Desconocido,Cherbourg,Senor
+818,819,No,Tercera,"Holm,  John Fredrik Alexander",Hombre,43.0,0,0,C 7075,6.45,Desconocido,Southampton,Senor
+819,820,No,Tercera,"Skoog,  Karl Thorsten",Hombre,10.0,3,2,347088,27.9,Desconocido,Southampton,Joven
+820,821,Si,Primera,"Hays,  Charles Melville (Clara Jennings Gregg)",Mujer,52.0,1,1,12749,93.5,B69,Southampton,Señora
+821,822,Si,Tercera,"Lulic,  Nikola",Hombre,27.0,0,0,315098,8.66,Desconocido,Southampton,Senor
+822,823,No,Primera,"Reuchlin,  John George",Hombre,38.0,0,0,19972,0.0,Desconocido,Southampton,Realeza
+823,824,Si,Tercera,"Moor,  (Beila)",Mujer,27.0,0,1,392096,12.48,E121,Southampton,Señora
+824,825,No,Tercera,"Panula,  Urho Abraham",Hombre,2.0,4,1,3101295,39.69,Desconocido,Southampton,Joven
+825,826,No,Tercera,"Flynn,  John",Hombre,29.7,0,0,368323,6.95,Desconocido,Queenstown,Senor
+826,827,No,Tercera,"Lam,  Len",Hombre,29.7,0,0,1601,56.5,Desconocido,Southampton,Senor
+827,828,Si,Segunda,"Mallet,  Andre",Hombre,1.0,0,2,S.C./PARIS 2079,37.0,Desconocido,Cherbourg,Joven
+828,829,Si,Tercera,"McCormack,  Thomas Joseph",Hombre,29.7,0,0,367228,7.75,Desconocido,Queenstown,Senor
+829,830,Si,Primera,"Stone,  George Nelson (Martha Evelyn)",Mujer,62.0,0,0,113572,80.0,B28,Southampton,Señora
+830,831,Si,Tercera,"Yasbeck,  Antoni (Selini Alexander)",Mujer,15.0,1,0,2659,14.45,Desconocido,Cherbourg,Señora
+831,832,Si,Segunda,"Richards,  George Sibley",Hombre,0.83,1,1,29106,18.75,Desconocido,Southampton,Joven
+832,833,No,Tercera,"Saad,  Amin",Hombre,29.7,0,0,2671,7.23,Desconocido,Cherbourg,Senor
+833,834,No,Tercera,"Augustsson,  Albert",Hombre,23.0,0,0,347468,7.85,Desconocido,Southampton,Senor
+834,835,No,Tercera,"Allum,  Owen George",Hombre,18.0,0,0,2223,8.3,Desconocido,Southampton,Senor
+835,836,Si,Primera,"Compton,  Sara Rebecca",Mujer,39.0,1,1,PC 17756,83.16,E49,Cherbourg,Señorita
+836,837,No,Tercera,"Pasic,  Jakob",Hombre,21.0,0,0,315097,8.66,Desconocido,Southampton,Senor
+837,838,No,Tercera,"Sirota,  Maurice",Hombre,29.7,0,0,392092,8.05,Desconocido,Southampton,Senor
+838,839,Si,Tercera,"Chip,  Chang",Hombre,32.0,0,0,1601,56.5,Desconocido,Southampton,Senor
+839,840,Si,Primera,"Marechal,  Pierre",Hombre,29.7,0,0,11774,29.7,C47,Cherbourg,Senor
+840,841,No,Tercera,"Alhomaki,  Ilmari Rudolf",Hombre,20.0,0,0,SOTON/O2 3101287,7.92,Desconocido,Southampton,Senor
+841,842,No,Segunda,"Mudd,  Thomas Charles",Hombre,16.0,0,0,S.O./P.P. 3,10.5,Desconocido,Southampton,Senor
+842,843,Si,Primera,"Serepeca,  Augusta",Mujer,30.0,0,0,113798,31.0,Desconocido,Cherbourg,Señorita
+843,844,No,Tercera,"Lemberopolous,  Peter L",Hombre,34.5,0,0,2683,6.44,Desconocido,Cherbourg,Senor
+844,845,No,Tercera,"Culumovic,  Jeso",Hombre,17.0,0,0,315090,8.66,Desconocido,Southampton,Senor
+845,846,No,Tercera,"Abbing,  Anthony",Hombre,42.0,0,0,C.A. 5547,7.55,Desconocido,Southampton,Senor
+846,847,No,Tercera,"Sage,  Douglas Bullen",Hombre,29.7,8,2,CA. 2343,69.55,Desconocido,Southampton,Senor
+847,848,No,Tercera,"Markoff,  Marin",Hombre,35.0,0,0,349213,7.9,Desconocido,Cherbourg,Senor
+848,849,No,Segunda,"Harper,  John",Hombre,28.0,0,1,248727,33.0,Desconocido,Southampton,Sacerdote
+849,850,Si,Primera,"Goldenberg,  Samuel L (Edwiga Grabowska)",Mujer,29.7,1,0,17453,89.1,C92,Cherbourg,Señora
+850,851,No,Tercera,"Andersson,  Sigvard Harald Elias",Hombre,4.0,4,2,347082,31.28,Desconocido,Southampton,Joven
+851,852,No,Tercera,"Svensson,  Johan",Hombre,74.0,0,0,347060,7.78,Desconocido,Southampton,Senor
+852,853,No,Tercera,"Boulos,  Nourelain",Mujer,9.0,1,1,2678,15.25,Desconocido,Cherbourg,Joven
+853,854,Si,Primera,"Lines,  Mary Conover",Mujer,16.0,0,1,PC 17592,39.4,D28,Southampton,Señorita
+854,855,No,Segunda,"Carter,  Ernest Courtenay (Lilian Hughes)",Mujer,44.0,1,0,244252,26.0,Desconocido,Southampton,Señora
+855,856,Si,Tercera,"Aks,  Sam (Leah Rosen)",Mujer,18.0,0,1,392091,9.35,Desconocido,Southampton,Señora
+856,857,Si,Primera,"Wick,  George Dennick (Mary Hitchcock)",Mujer,45.0,1,1,36928,164.87,Desconocido,Southampton,Señora
+857,858,Si,Primera,"Daly,  Peter Denis ",Hombre,51.0,0,0,113055,26.55,E17,Southampton,Senor
+858,859,Si,Tercera,"Baclini,  Solomon (Latifa Qurban)",Mujer,24.0,0,3,2666,19.26,Desconocido,Cherbourg,Señora
+859,860,No,Tercera,"Razi,  Raihed",Hombre,29.7,0,0,2629,7.23,Desconocido,Cherbourg,Senor
+860,861,No,Tercera,"Hansen,  Claus Peter",Hombre,41.0,2,0,350026,14.11,Desconocido,Southampton,Senor
+861,862,No,Segunda,"Giles,  Frederick Edward",Hombre,21.0,1,0,28134,11.5,Desconocido,Southampton,Senor
+862,863,Si,Primera,"Swift,  Frederick Joel (Margaret Welles Barron)",Mujer,48.0,0,0,17466,25.93,D17,Southampton,Señora
+863,864,No,Tercera,"Sage,  Dorothy Edith ""Dolly""",Mujer,29.7,8,2,CA. 2343,69.55,Desconocido,Southampton,Señorita
+864,865,No,Segunda,"Gill,  John William",Hombre,24.0,0,0,233866,13.0,Desconocido,Southampton,Senor
+865,866,Si,Segunda,"Bystrom,  (Karolina)",Mujer,42.0,0,0,236852,13.0,Desconocido,Southampton,Señora
+866,867,Si,Segunda,"Duran y More,  Asuncion",Mujer,27.0,1,0,SC/PARIS 2149,13.86,Desconocido,Cherbourg,Señorita
+867,868,No,Primera,"Roebling,  Washington Augustus II",Hombre,31.0,0,0,PC 17590,50.5,A24,Southampton,Senor
+868,869,No,Tercera,"van Melkebeke,  Philemon",Hombre,29.7,0,0,345777,9.5,Desconocido,Southampton,Senor
+869,870,Si,Tercera,"Johnson,  Harold Theodor",Hombre,4.0,1,1,347742,11.13,Desconocido,Southampton,Joven
+870,871,No,Tercera,"Balkic,  Cerin",Hombre,26.0,0,0,349248,7.9,Desconocido,Southampton,Senor
+871,872,Si,Primera,"Beckwith,  Richard Leonard (Sallie Monypeny)",Mujer,47.0,1,1,11751,52.55,D35,Southampton,Señora
+872,873,No,Primera,"Carlsson,  Frans Olof",Hombre,33.0,0,0,695,5.0,B51 B53 B55,Southampton,Senor
+873,874,No,Tercera,"Vander Cruyssen,  Victor",Hombre,47.0,0,0,345765,9.0,Desconocido,Southampton,Senor
+874,875,Si,Segunda,"Abelson,  Samuel (Hannah Wizosky)",Mujer,28.0,1,0,P/PP 3381,24.0,Desconocido,Cherbourg,Señora
+875,876,Si,Tercera,"Najib,  Adele Kiamie ""Jane""",Mujer,15.0,0,0,2667,7.22,Desconocido,Cherbourg,Joven
+876,877,No,Tercera,"Gustafsson,  Alfred Ossian",Hombre,20.0,0,0,7534,9.85,Desconocido,Southampton,Senor
+877,878,No,Tercera,"Petroff,  Nedelio",Hombre,19.0,0,0,349212,7.9,Desconocido,Southampton,Senor
+878,879,No,Tercera,"Laleff,  Kristo",Hombre,29.7,0,0,349217,7.9,Desconocido,Southampton,Senor
+879,880,Si,Primera,"Potter,  Thomas Jr (Lily Alexenia Wilson)",Mujer,56.0,0,1,11767,83.16,C50,Cherbourg,Señora
+880,881,Si,Segunda,"Shelley,  William (Imanita Parrish Hall)",Mujer,25.0,0,1,230433,26.0,Desconocido,Southampton,Señora
+881,882,No,Tercera,"Markun,  Johann",Hombre,33.0,0,0,349257,7.9,Desconocido,Southampton,Senor
+882,883,No,Tercera,"Dahlberg,  Gerda Ulrika",Mujer,22.0,0,0,7552,10.52,Desconocido,Southampton,Señorita
+883,884,No,Segunda,"Banfield,  Frederick James",Hombre,28.0,0,0,C.A./SOTON 34068,10.5,Desconocido,Southampton,Senor
+884,885,No,Tercera,"Sutehall,  Henry Jr",Hombre,25.0,0,0,SOTON/OQ 392076,7.05,Desconocido,Southampton,Senor
+885,886,No,Tercera,"Rice,  William (Margaret Norton)",Mujer,39.0,0,5,382652,29.12,Desconocido,Queenstown,Señora
+886,887,No,Segunda,"Montvila,  Juozas",Hombre,27.0,0,0,211536,13.0,Desconocido,Southampton,Sacerdote
+887,888,Si,Primera,"Graham,  Margaret Edith",Mujer,19.0,0,0,112053,30.0,B42,Southampton,Señorita
+888,889,No,Tercera,"Johnston,  Catherine Helen ""Carrie""",Mujer,29.7,1,2,W./C. 6607,23.45,Desconocido,Southampton,Señorita
+889,890,Si,Primera,"Behr,  Karl Howell",Hombre,26.0,0,0,111369,30.0,C148,Cherbourg,Senor
+890,891,No,Tercera,"Dooley,  Patrick",Hombre,32.0,0,0,370376,7.75,Desconocido,Queenstown,Senor
