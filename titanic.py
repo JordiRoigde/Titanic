@@ -178,7 +178,7 @@ if st.sidebar.button("Gráficos"):
     color_dict = {"Primera": '#ced9e0', "Segunda": '#3b6a84', "Tercera": '#083751'}
     fig3 = px.scatter(df_limpio, x="Edad", y="Precio", color="Clase",
                     labels={"Edad": "Edad (años)", "Precio": "Precio del billete"},
-                    title="Relación entre edad, precio del billete y supervivencia",
+                    title="Relación entre edad, precio del billete y clase",
                     color_discrete_map=color_dict)
 
     st.plotly_chart(fig3, use_container_width=True)
