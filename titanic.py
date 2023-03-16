@@ -11,7 +11,7 @@ import plotly.offline as pyo
 
 #--------------------CONFIGURACIÓN DE LA PÁGINA----------------------------#
 #layout="centered" or "wide"
-st.set_page_config(page_title="TITANIC", layout="wide", page_icon="🚢", theme="dark")
+st.set_page_config(page_title="TITANIC", layout="wide", page_icon="🚢")
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 #--------------------LEEMOS LOS DATAFRAMES----------------------------#
