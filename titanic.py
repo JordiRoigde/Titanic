@@ -238,7 +238,8 @@ if st.sidebar.button("Conclusiones"):
         st.subheader("72% de pasajeros ha embarcado a Southampton y el 93% de los embarcados en Queenstown eran tercera clase.")
         st.subheader("El 72% de mujeres Sobrevivieron y solo el 32% de los sobrevivientes fueron hombres")
         st.subheader("el 64% del total de precio fue pagado por la primera clase.")
-        
+        st.subheader("Las personas mayores tienen menos probabilidades de sobrevivir, aunque el mayor de 80 años sobrevivió.")
+        st.subheader("Las personas de una clase más baja tienen menos probabilidades de sobrevivir.")
     with col2:
         st.title("")
     with col3:
